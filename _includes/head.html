@@ -1,0 +1,29 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="shortcut icon" href="{{ '/assets/favicon.ico' | prepend: site.baseurl }}" type="image/x-icon">
+    <link rel="icon" href="{{ '/assets/favicon.ico' | prepend: site.baseurl }}" type="image/x-icon">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet">
+
+    <!-- Simple-Jekyll-Search -->
+    <script src="https://unpkg.com/simple-jekyll-search@1.5.0/dest/simple-jekyll-search.min.js"></script>
+    <script>
+        SimpleJekyllSearch({
+          search-input: document.querySelector('.search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: "{{ '/search.json' | prepend: site.baseurl }}",
+          searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>'
+        })
+    </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="{{ "/script.js" | prepend: site.baseurl }}"}></script>
+
+</head>

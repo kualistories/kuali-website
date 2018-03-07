@@ -1,0 +1,90 @@
+<!-- Home page -->
+
+<div class="featured-container">
+
+<h3 class="section-header"><i>Featured</i></h3>
+{% assign maxRelated = 3 %}
+{% assign maxRelatedCounter = 0 %}
+
+{% for post in site.posts %}
+{% cycle 'add row' : '<div class="row">', '', '' %}
+    <div class="column column-33">
+        <div class="preview-panel">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <!-- Fancy image blending stuff for thumbnails -->
+                <div class="panel-container">
+                    <div class="panel-img" style="background: 
+                        url('{{ post.background }}'), 
+                        url('{{ post.silhouette }}');
+                        background-size:cover;"></div>
+                    <div class="panel-color" style="background: {{ post.colour }}"></div>
+                </div>
+                <!-- Title -->
+                <div class="panel-info">
+                    <h2><span>{{ post.title }}</span></h2>
+                    <h3><span><em>by {{ post.author }}</em></span></h3>
+                    <!-- <p class="excerpt">{{ post.content | strip_html | truncatewords: 15 }}</p> -->
+                </div>
+            </a>
+        </div>
+    </div>
+{% cycle 'end row' : '', '', '</div>' %}
+{% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+{% if maxRelatedCounter >= maxRelated %}
+    {% break %}
+{% endif %}
+{% endfor %}
+</div>
+
+
+<div class="preview-container">
+<h3 class="section-header"><i>All</i></h3>
+
+
+<input type="text" id="search-input" placeholder="Search by title, author, category, content ...">
+<div id="results-container"></div>
+<div class="tag-cloud">
+{% assign categories_list = site.categories %}
+    {% if categories_list.first[0] == null %}
+        {% for category in categories_list %}
+            <div>
+                <a href="#{{ category }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a></li>
+            </div>
+        {% endfor %}
+    {% else %}
+        {% for category in categories_list %}
+            <div class="tag-boxes">
+                <a href="#{{ tag[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a>
+            </div>
+        {% endfor %}
+    {% endif %}
+{% assign categories_list = nil %}
+</div>
+
+
+{% for post in site.posts %}
+{% cycle 'add row' : '<div class="row">', '', '' %}
+    <div class="column column-33">
+        <div class="preview-panel">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <!-- Fancy image blending stuff for thumbnails -->
+                <div class="panel-container">
+                    <div class="panel-img" style="background: 
+                        url('{{ post.background }}'), 
+                        url('{{ post.silhouette }}');
+                        background-size:cover;"></div>
+                    <div class="panel-color" style="background: {{ post.colour }}"></div>
+                </div>
+                <!-- Title -->
+                <div class="panel-info">
+                    <h2><span>{{ post.title }}</span></h2>
+                    <h3><span><em>by {{ post.author }}</em></span></h3>
+                    <!-- <p class="excerpt">{{ post.content | strip_html | truncatewords: 15 }}</p> -->
+                </div>
+            </a>
+        </div>
+    </div>
+{% cycle 'end row' : '', '', '</div>' %}
+{% endfor %}
+{% cycle 'end row' : '', '</div>', '</div>' %}    
+</div>
