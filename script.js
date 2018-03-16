@@ -11,4 +11,12 @@ $( document ).ready(function() {
     for (var i=0; i<panelColors.length; i++) {
         panelColors[i].style.backgroundColor = colorScheme[Math.floor(Math.random() * colorScheme.length)];
     }
+
+    // Search
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>'
+    })
 });
