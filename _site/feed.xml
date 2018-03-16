@@ -4,10 +4,10 @@
     <title>KUALI</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://kualistories.github.io/</link>
-    <atom:link href="http://kualistories.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Mar 2018 03:17:51 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Mar 2018 03:17:51 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 Mar 2018 03:04:07 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Mar 2018 03:04:07 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Oct 2017 16:39:40 +0100</pubDate>
-        <link>http://kualistories.github.io/hindsight/2017/10/09/this-is-gonna-hurt/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/hindsight/2017/10/09/this-is-gonna-hurt/</guid>
+        <link>http://localhost:4000/hindsight/2017/10/09/this-is-gonna-hurt/</link>
+        <guid isPermaLink="true">http://localhost:4000/hindsight/2017/10/09/this-is-gonna-hurt/</guid>
         
         
         <category>hindsight</category>
@@ -32,8 +32,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Oct 2017 16:39:40 +0100</pubDate>
-        <link>http://kualistories.github.io/philosophical/2017/10/09/relentless-optimism/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/philosophical/2017/10/09/relentless-optimism/</guid>
+        <link>http://localhost:4000/philosophical/2017/10/09/relentless-optimism/</link>
+        <guid isPermaLink="true">http://localhost:4000/philosophical/2017/10/09/relentless-optimism/</guid>
         
         
         <category>philosophical</category>
@@ -47,8 +47,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Oct 2017 16:39:40 +0100</pubDate>
-        <link>http://kualistories.github.io/hindsight/2017/10/08/a-letter-to-myself/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/hindsight/2017/10/08/a-letter-to-myself/</guid>
+        <link>http://localhost:4000/hindsight/2017/10/08/a-letter-to-myself/</link>
+        <guid isPermaLink="true">http://localhost:4000/hindsight/2017/10/08/a-letter-to-myself/</guid>
         
         
         <category>hindsight</category>
@@ -62,8 +62,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Oct 2017 16:39:40 +0100</pubDate>
-        <link>http://kualistories.github.io/philosophy/2017/10/07/theres-a-gun-to-your-head/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/philosophy/2017/10/07/theres-a-gun-to-your-head/</guid>
+        <link>http://localhost:4000/philosophy/2017/10/07/theres-a-gun-to-your-head/</link>
+        <guid isPermaLink="true">http://localhost:4000/philosophy/2017/10/07/theres-a-gun-to-your-head/</guid>
         
         
         <category>philosophy</category>
@@ -77,8 +77,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Oct 2017 16:39:40 +0100</pubDate>
-        <link>http://kualistories.github.io/anecdote/2017/10/07/family-vs-friends/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/anecdote/2017/10/07/family-vs-friends/</guid>
+        <link>http://localhost:4000/anecdote/2017/10/07/family-vs-friends/</link>
+        <guid isPermaLink="true">http://localhost:4000/anecdote/2017/10/07/family-vs-friends/</guid>
         
         
         <category>anecdote</category>
@@ -92,8 +92,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Oct 2016 16:39:40 +0100</pubDate>
-        <link>http://kualistories.github.io/epiphanies/2016/10/08/magic-of-knowing/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/epiphanies/2016/10/08/magic-of-knowing/</guid>
+        <link>http://localhost:4000/epiphanies/2016/10/08/magic-of-knowing/</link>
+        <guid isPermaLink="true">http://localhost:4000/epiphanies/2016/10/08/magic-of-knowing/</guid>
         
         
         <category>epiphanies</category>
@@ -107,8 +107,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Oct 2016 16:39:40 +0100</pubDate>
-        <link>http://kualistories.github.io/epiphanies/2016/10/08/do-or-do-not/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/epiphanies/2016/10/08/do-or-do-not/</guid>
+        <link>http://localhost:4000/epiphanies/2016/10/08/do-or-do-not/</link>
+        <guid isPermaLink="true">http://localhost:4000/epiphanies/2016/10/08/do-or-do-not/</guid>
         
         
         <category>epiphanies</category>
@@ -122,8 +122,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Oct 2016 16:39:40 +0100</pubDate>
-        <link>http://kualistories.github.io/anecdote/2016/10/07/the-throwdown/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/anecdote/2016/10/07/the-throwdown/</guid>
+        <link>http://localhost:4000/anecdote/2016/10/07/the-throwdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/anecdote/2016/10/07/the-throwdown/</guid>
         
         
         <category>anecdote</category>
@@ -137,8 +137,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 16:39:40 +0100</pubDate>
-        <link>http://kualistories.github.io/philosophical/2015/10/09/crossroads/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/philosophical/2015/10/09/crossroads/</guid>
+        <link>http://localhost:4000/philosophical/2015/10/09/crossroads/</link>
+        <guid isPermaLink="true">http://localhost:4000/philosophical/2015/10/09/crossroads/</guid>
         
         
         <category>philosophical</category>
@@ -152,8 +152,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 16:39:40 +0100</pubDate>
-        <link>http://kualistories.github.io/hindsight/2015/10/09/theres-always-more/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/hindsight/2015/10/09/theres-always-more/</guid>
+        <link>http://localhost:4000/hindsight/2015/10/09/theres-always-more/</link>
+        <guid isPermaLink="true">http://localhost:4000/hindsight/2015/10/09/theres-always-more/</guid>
         
         
         <category>hindsight</category>

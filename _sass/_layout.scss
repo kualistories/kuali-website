@@ -130,19 +130,19 @@
 }
 
 .panel-info {
-    font-family: serif;
+    font-family: 'Roboto', sans-serif;
     text-align: right;
     position: absolute;
     top: 0;
     right: 0;
     padding: 5%;
-    font-family: serif;
     color: rgba(50,50,50,1);
     // span {
     //     background-color:;
     // }
     h2 {
         font-size: 3rem;
+        font-weight: bold;
         margin: 0px;
     }
     h3 {
@@ -174,7 +174,7 @@
 }
 
 body {
-    font-family: serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 2rem;
     color: rgba(50,50,50,1);
 }
