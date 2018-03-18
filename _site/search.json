@@ -2,6 +2,7 @@
   
     {
       "title"    : "This is gonna hurt",
+      "author"   : "Chloe Lee",
       "category" : "hindsight",
       "tags"     : "",
       "url"      : "/hindsight/2017/10/09/this-is-gonna-hurt/",
@@ -10,6 +11,7 @@
   
     {
       "title"    : "Relentless optimism",
+      "author"   : "Chloe Lee",
       "category" : "philosophical",
       "tags"     : "",
       "url"      : "/philosophical/2017/10/09/relentless-optimism/",
@@ -18,6 +20,7 @@
   
     {
       "title"    : "A letter to myself",
+      "author"   : "Toh Eu Shern",
       "category" : "hindsight",
       "tags"     : "",
       "url"      : "/hindsight/2017/10/08/a-letter-to-myself/",
@@ -26,6 +29,7 @@
   
     {
       "title"    : "There&#39;s a gun to your head",
+      "author"   : "Chan Jun Shern",
       "category" : "philosophy",
       "tags"     : "",
       "url"      : "/philosophy/2017/10/07/theres-a-gun-to-your-head/",
@@ -34,6 +38,7 @@
   
     {
       "title"    : "Family vs Friends",
+      "author"   : "Chan Jun Shern",
       "category" : "anecdote",
       "tags"     : "",
       "url"      : "/anecdote/2017/10/07/family-vs-friends/",
@@ -42,6 +47,7 @@
   
     {
       "title"    : "Magic of knowing",
+      "author"   : "Toh Eu Shern",
       "category" : "epiphanies",
       "tags"     : "",
       "url"      : "/epiphanies/2016/10/08/magic-of-knowing/",
@@ -50,6 +56,7 @@
   
     {
       "title"    : "Do or do not",
+      "author"   : "Toh Eu Shern",
       "category" : "epiphanies",
       "tags"     : "",
       "url"      : "/epiphanies/2016/10/08/do-or-do-not/",
@@ -58,6 +65,7 @@
   
     {
       "title"    : "The throwdown",
+      "author"   : "Chan Jun Shern",
       "category" : "anecdote",
       "tags"     : "",
       "url"      : "/anecdote/2016/10/07/the-throwdown/",
@@ -66,6 +74,7 @@
   
     {
       "title"    : "Crossroads",
+      "author"   : "Chloe Lee",
       "category" : "philosophical",
       "tags"     : "",
       "url"      : "/philosophical/2015/10/09/crossroads/",
@@ -74,6 +83,7 @@
   
     {
       "title"    : "There&#39;s always more",
+      "author"   : "Chloe Lee",
       "category" : "hindsight",
       "tags"     : "",
       "url"      : "/hindsight/2015/10/09/theres-always-more/",
@@ -82,6 +92,7 @@
   
     {
       "title"    : "Moment of truth",
+      "author"   : "Toh Eu Shern",
       "category" : "epiphanies",
       "tags"     : "",
       "url"      : "/epiphanies/2015/10/08/moment-of-truth/",
@@ -90,6 +101,7 @@
   
     {
       "title"    : "Adversity university",
+      "author"   : "Chan Jun Shern",
       "category" : "university",
       "tags"     : "",
       "url"      : "/university/2015/10/07/adversity-university/",

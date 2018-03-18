@@ -17,13 +17,14 @@
                         url('{{ post.background }}'), 
                         url('{{ post.silhouette }}');
                         background-size:cover;"></div>
-                    <div class="panel-color" style="background: {{ post.colour }}"></div>
-                </div>
-                <!-- Title -->
-                <div class="panel-info">
-                    <h2><span>{{ post.author }}</span></h2>
-                    <h3><span>{{ post.title }}</span></h3>
-                    <!-- <p class="excerpt">{{ post.content | strip_html | truncatewords: 15 }}</p> -->
+                    <div class="panel-color"></div>
+
+                    <!-- Title -->
+                    <div class="panel-info">
+                        <h2><span>{{ post.author }}</span></h2>
+                        <h3><span>{{ post.title }}</span></h3>
+                        <p class="excerpt"><i>{{ post.content | strip_html | truncatewords: 15 }}</i></p>
+                    </div>
                 </div>
             </a>
         </div>
@@ -53,9 +54,11 @@
         {% endfor %}
     {% else %}
         {% for category in categories_list %}
-            <div class="tag-boxes">
-                <a href="#{{ tag[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a>
-            </div>
+            <!-- <div class="tag-boxes"> -->
+                <button class="tag-button" type="button" onclick="tagButtonClick('{{ category[0] }}')">
+                    {{ category[0] | capitalize }} ({{ category[1].size }})
+                </button>
+            <!-- </div> -->
         {% endfor %}
     {% endif %}
 {% assign categories_list = nil %}
@@ -73,13 +76,14 @@
                         url('{{ post.background }}'), 
                         url('{{ post.silhouette }}');
                         background-size:cover;"></div>
-                    <div class="panel-color" style="background: {{ post.colour }}"></div>
-                </div>
-                <!-- Title -->
-                <div class="panel-info">
-                    <h2><span>{{ post.title }}</span></h2>
-                    <h3><span>by {{ post.author }}</span></h3>
-                    <!-- <p class="excerpt">{{ post.content | strip_html | truncatewords: 15 }}</p> -->
+                    <div class="panel-color"></div>
+
+                    <!-- Title -->
+                    <div class="panel-info">
+                        <h2><span>{{ post.author }}</span></h2>
+                        <h3><span>{{ post.title }}</span></h3>
+                        <p class="excerpt"><i>{{ post.content | strip_html | truncatewords: 15 }}</i></p>
+                    </div>
                 </div>
             </a>
         </div>
