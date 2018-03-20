@@ -7,8 +7,12 @@ colorScheme = ["rgba(243, 169, 79, 1)",
     "rgba(36, 62, 54, 1)"];
 
 function tagButtonClick(text) {
-    document.getElementById('search-input').value = text;
+    // Actually perform search
+    // window.simpleJekyllSearch.emptyResultsContainer();
     window.simpleJekyllSearch.search(text);
+    // Update search input to reflect new search
+    document.getElementById('search-input').value = text;
+    document.getElementById('search-input').focus();
 }
 
 $( document ).ready(function() {
