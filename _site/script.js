@@ -8,7 +8,7 @@ colorScheme = ["rgba(243, 169, 79, 1)",
 
 function tagButtonClick(text) {
     document.getElementById('search-input').value = text;
-    $('#search-input').trigger(jQuery.Event('keyup', {which: 13}));
+    window.simpleJekyllSearch.search(text);
 }
 
 $( document ).ready(function() {
@@ -18,7 +18,7 @@ $( document ).ready(function() {
     }
 
     // Search
-    SimpleJekyllSearch({
+    window.simpleJekyllSearch = SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
