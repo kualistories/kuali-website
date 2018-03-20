@@ -41,9 +41,7 @@
 <div class="preview-container">
 <h3 class="section-header"><i>All</i></h3>
 
-
 <input type="text" id="search-input" placeholder="Search by title, author, category, content ...">
-<div id="results-container"></div>
 <div class="tag-cloud">
 {% assign categories_list = site.categories %}
     {% if categories_list.first[0] == null %}
@@ -63,7 +61,7 @@
     {% endif %}
 {% assign categories_list = nil %}
 </div>
-
+<div id="results-container"></div>
 
 {% for post in site.posts %}
 {% cycle 'add row' : '<div class="row">', '', '' %}
