@@ -6,6 +6,13 @@ colorScheme = ["rgba(243, 169, 79, 1)",
     "rgba(241, 247, 237, 1)", 
     "rgba(36, 62, 54, 1)"];
 
+function colorTiles() {
+    panelColors = document.getElementsByClassName('panel-color');
+    for (var i=0; i<panelColors.length; i++) {
+        panelColors[i].style.backgroundColor = colorScheme[Math.floor(Math.random() * colorScheme.length)];
+    }
+}
+
 function tagButtonClick(text) {
     // Actually perform search
     // window.simpleJekyllSearch.emptyResultsContainer();
@@ -13,12 +20,14 @@ function tagButtonClick(text) {
     // Update search input to reflect new search
     document.getElementById('search-input').value = text;
     document.getElementById('search-input').focus();
+    // Give color to the new tiles
+    colorTiles();
 }
 
-function buildTemplate(author, title, excerpt, silhouette, background) {
+function buildTemplate(author, title, excerpt, url, silhouette, background) {
     var htmlString = `
         <div class="preview-panel">
-            <a href="{{ post.url | prepend: site.baseurl }}">
+            <a href="${url}">
                 <!-- Fancy image blending stuff for thumbnails -->
                 <div class="panel-container">
                     <div class="panel-img" style="background: 
@@ -40,16 +49,13 @@ function buildTemplate(author, title, excerpt, silhouette, background) {
     return htmlString;
 }
 $( document ).ready(function() {
-    panelColors = document.getElementsByClassName('panel-color');
-    for (var i=0; i<panelColors.length; i++) {
-        panelColors[i].style.backgroundColor = colorScheme[Math.floor(Math.random() * colorScheme.length)];
-    }
+    colorTiles();
 
     // Search
     window.simpleJekyllSearch = SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
-        searchResultTemplate: buildTemplate('{author}','{title}','{excerpt}','{silhouette}','{background}')
+        searchResultTemplate: buildTemplate('{author}','{title}','{excerpt}','{url}','{silhouette}','{background}')
     })
 });
