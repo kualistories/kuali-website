@@ -13,6 +13,13 @@ function colorTiles() {
     }
 }
 
+function colorSearchTiles() {
+    panelColors = document.getElementsByClassName('panel-color-search');
+    for (var i=0; i<panelColors.length; i++) {
+        panelColors[i].style.backgroundColor = colorScheme[Math.floor(Math.random() * colorScheme.length)];
+    }
+}
+
 function tagButtonClick(text) {
     // Actually perform search
     // window.simpleJekyllSearch.emptyResultsContainer();
@@ -21,7 +28,7 @@ function tagButtonClick(text) {
     document.getElementById('search-input').value = text;
     document.getElementById('search-input').focus();
     // Give color to the new tiles
-    colorTiles();
+    colorSearchTiles();
 }
 
 function buildTemplate(author, title, excerpt, url, silhouette, background) {
@@ -34,7 +41,7 @@ function buildTemplate(author, title, excerpt, url, silhouette, background) {
                         url('${background}'), 
                         url('${silhouette}');
                         background-size:cover;"></div>
-                    <div class="panel-color"></div>
+                    <div class="panel-color-search"></div>
 
                     <!-- Title -->
                     <div class="panel-info">
@@ -54,7 +61,7 @@ $( document ).ready(function() {
     // Make sure to update colors on each new search
     resultsContainer = document.getElementById ("results-container");
     if (resultsContainer.addEventListener) {
-        resultsContainer.addEventListener ('DOMSubtreeModified', colorTiles, false);
+        resultsContainer.addEventListener ('DOMSubtreeModified', colorSearchTiles, false);
     }
 
     // Search
@@ -62,6 +69,7 @@ $( document ).ready(function() {
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
+        fuzzy: true,
         searchResultTemplate: buildTemplate('{author}','{title}','{excerpt}',
                                             '{url}','{silhouette}','{background}')
     })
