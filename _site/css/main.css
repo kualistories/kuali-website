@@ -753,3 +753,8 @@ a {
 
 .section-header {
   border-bottom: 2px solid #323232; }
+
+#results-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 20px; }

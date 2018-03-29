@@ -129,6 +129,7 @@
     -webkit-filter: grayscale(80%);
     opacity: 0.7;
 }
+
 .panel-color {
     -webkit-transition: all 0.2s ease; /* Safari and Chrome */
     -moz-transition: all 0.2s ease; /* Firefox */
@@ -208,4 +209,10 @@ a {
 
 .section-header {
     border-bottom: 2px solid rgba(50,50,50,1);
+}
+
+#results-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
 }

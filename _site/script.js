@@ -45,17 +45,24 @@ function buildTemplate(author, title, excerpt, url, silhouette, background) {
                 </div>
             </a>
         </div>`
-    // '<li>'+author+' on '+title+' ('+category+')</a></li>';
     return htmlString;
 }
+
 $( document ).ready(function() {
     colorTiles();
+
+    // Make sure to update colors on each new search
+    resultsContainer = document.getElementById ("results-container");
+    if (resultsContainer.addEventListener) {
+        resultsContainer.addEventListener ('DOMSubtreeModified', colorTiles, false);
+    }
 
     // Search
     window.simpleJekyllSearch = SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
-        searchResultTemplate: buildTemplate('{author}','{title}','{excerpt}','{url}','{silhouette}','{background}')
+        searchResultTemplate: buildTemplate('{author}','{title}','{excerpt}',
+                                            '{url}','{silhouette}','{background}')
     })
 });
