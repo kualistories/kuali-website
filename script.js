@@ -56,12 +56,11 @@ function buildTemplate(author, title, excerpt, url, silhouette, background) {
 
 function emptySearch() {
     searchInput = document.getElementById("search-input");
-    console.log(searchInput.value.length);
     if (searchInput.value.length == 0) {
         console.log('asdoin');
         setTimeout(() => {
             window.simpleJekyllSearch.search(' ');
-        }, 200)
+        }, 400);
     }
 }
 
