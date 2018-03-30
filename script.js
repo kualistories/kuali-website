@@ -54,6 +54,17 @@ function buildTemplate(author, title, excerpt, url, silhouette, background) {
     return htmlString;
 }
 
+function emptySearch() {
+    searchInput = document.getElementById("search-input");
+    console.log(searchInput.value.length);
+    if (searchInput.value.length == 0) {
+        console.log('asdoin');
+        setTimeout(() => {
+            window.simpleJekyllSearch.search(' ');
+        }, 200)
+    }
+}
+
 $( document ).ready(function() {
     colorTiles();
 
@@ -61,6 +72,12 @@ $( document ).ready(function() {
     resultsContainer = document.getElementById ("results-container");
     if (resultsContainer.addEventListener) {
         resultsContainer.addEventListener ('DOMSubtreeModified', colorSearchTiles, false);
+    }
+
+    // Check if input is empty, then search for everything
+    searchInput = document.getElementById("search-input");
+    if (searchInput.addEventListener) {
+        searchInput.addEventListener('input', emptySearch, false);
     }
 
     // Search
@@ -72,5 +89,9 @@ $( document ).ready(function() {
         limit: 30,
         searchResultTemplate: buildTemplate('{author}','{title}','{excerpt}',
                                             '{url}','{silhouette}','{background}')
-    })
+    });
+    // Start with empty search to show all options
+    setTimeout(() => {
+        window.simpleJekyllSearch.search(' ');
+    }, 200);
 });
