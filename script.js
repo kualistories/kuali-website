@@ -26,7 +26,6 @@ function tagButtonClick(text) {
     window.simpleJekyllSearch.search(text);
     // Update search input to reflect new search
     document.getElementById('search-input').value = text;
-    document.getElementById('search-input').focus();
     // Give color to the new tiles
     colorSearchTiles();
 }
@@ -45,8 +44,8 @@ function buildTemplate(author, title, excerpt, url, silhouette, background) {
 
                     <!-- Title -->
                     <div class="panel-info">
-                        <h2><span>${author}</span></h2>
-                        <h3><span>${title}</span></h3>
+                        <h2><span>${title}</span></h2>
+                        <h3><span>${author}</span></h3>
                         <p class="excerpt"><i>${excerpt}</i></p>
                     </div>
                 </div>
@@ -70,6 +69,7 @@ $( document ).ready(function() {
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
         fuzzy: true,
+        limit: 30,
         searchResultTemplate: buildTemplate('{author}','{title}','{excerpt}',
                                             '{url}','{silhouette}','{background}')
     })

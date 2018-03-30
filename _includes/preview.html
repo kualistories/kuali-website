@@ -1,8 +1,10 @@
 <!-- Home page -->
 
-<h3 class="section-header"><i>Featured</i></h3>
+<div>
+    <h3 class="section-header"><i>Featured</i></h3>
+</div>
 
-<div id="featured-container" class="grid-container">
+<div id="featured-container">
 {% assign maxRelated = 3 %}
 {% assign maxRelatedCounter = 0 %}
 
@@ -19,8 +21,8 @@
 
             <!-- Title -->
             <div class="panel-info">
-                <h2><span>{{ post.author }}</span></h2>
-                <h3><span>{{ post.title }}</span></h3>
+                <h2><span>{{ post.title }}</span></h2>
+                <h3><span>{{ post.author }}</span></h3>
                 <p class="excerpt"><i>{{ post.content | strip_html | truncatewords: 15 }}</i></p>
             </div>
         </div>
@@ -33,9 +35,10 @@
 {% endfor %}
 </div>
 
-<h3 class="section-header"><i>Discover</i></h3>
+<div>
+    <h3 class="section-header"><i>Discover</i></h3>
+</div>
 
-<input type="text" id="search-input" placeholder="Search by title, author, category, content ...">
 <div class="tag-cloud">
 {% assign categories_list = site.categories %}
     {% if categories_list.first[0] == null %}
@@ -55,7 +58,10 @@
     {% endif %}
 {% assign categories_list = nil %}
 </div>
-<div id="results-container" class="grid-container"></div>
+
+<input type="text" id="search-input" placeholder="Search by title, author, category, content ...">
+
+<div id="results-container"></div>
 
 <!-- <div class="grid-container">
 {% for post in site.posts %}

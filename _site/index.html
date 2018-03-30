@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
-    <link rel="canonical" href="http://localhost:4000/">
+    <link rel="canonical" href="http://0.0.0.0:4000/">
     <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
 
@@ -49,9 +49,11 @@
         
         <!-- Home page -->
 
-<h3 class="section-header"><i>Featured</i></h3>
+<div>
+    <h3 class="section-header"><i>Featured</i></h3>
+</div>
 
-<div id="featured-container" class="grid-container">
+<div id="featured-container">
 
 
 
@@ -68,8 +70,8 @@
 
             <!-- Title -->
             <div class="panel-info">
-                <h2><span>Chloe Lee</span></h2>
-                <h3><span>This is gonna hurt</span></h3>
+                <h2><span>This is gonna hurt</span></h2>
+                <h3><span>Chloe Lee</span></h3>
                 <p class="excerpt"><i>Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di...</i></p>
             </div>
         </div>
@@ -90,8 +92,8 @@
 
             <!-- Title -->
             <div class="panel-info">
-                <h2><span>Chloe Lee</span></h2>
-                <h3><span>Relentless optimism</span></h3>
+                <h2><span>Relentless optimism</span></h2>
+                <h3><span>Chloe Lee</span></h3>
                 <p class="excerpt"><i>Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di...</i></p>
             </div>
         </div>
@@ -112,8 +114,8 @@
 
             <!-- Title -->
             <div class="panel-info">
-                <h2><span>Toh Eu Shern</span></h2>
-                <h3><span>A letter to myself</span></h3>
+                <h2><span>A letter to myself</span></h2>
+                <h3><span>Toh Eu Shern</span></h3>
                 <p class="excerpt"><i>Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di...</i></p>
             </div>
         </div>
@@ -124,9 +126,10 @@
     
 </div>
 
-<h3 class="section-header"><i>Discover</i></h3>
+<div>
+    <h3 class="section-header"><i>Discover</i></h3>
+</div>
 
-<input type="text" id="search-input" placeholder="Search by title, author, category, content ...">
 <div class="tag-cloud">
 
     
@@ -170,7 +173,10 @@
     
 
 </div>
-<div id="results-container" class="grid-container"></div>
+
+<input type="text" id="search-input" placeholder="Search by title, author, category, content ...">
+
+<div id="results-container"></div>
 
 <!-- <div class="grid-container">
 
