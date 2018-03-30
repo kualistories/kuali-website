@@ -93,5 +93,5 @@ $( document ).ready(function() {
     // Start with empty search to show all options
     setTimeout(() => {
         window.simpleJekyllSearch.search(' ');
-    }, 200);
+    }, 500);
 });
