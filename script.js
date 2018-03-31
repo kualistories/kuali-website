@@ -30,7 +30,7 @@ function tagButtonClick(text) {
     colorSearchTiles();
 }
 
-function buildTemplate(author, title, excerpt, url, silhouette, background) {
+function buildTemplate(author, title, summary, url, silhouette, background) {
     var htmlString = `
         <div class="preview-panel">
             <a href="${url}">
@@ -46,7 +46,7 @@ function buildTemplate(author, title, excerpt, url, silhouette, background) {
                     <div class="panel-info">
                         <h2><span>${title}</span></h2>
                         <h3><span>${author}</span></h3>
-                        <p class="excerpt"><i>${excerpt}</i></p>
+                        <p class="excerpt"><i>${summary}</i></p>
                     </div>
                 </div>
             </a>
@@ -86,7 +86,7 @@ $( document ).ready(function() {
         json: '/search.json',
         fuzzy: true,
         limit: 30,
-        searchResultTemplate: buildTemplate('{author}','{title}','{excerpt}',
+        searchResultTemplate: buildTemplate('{author}','{title}','{summary}',
                                             '{url}','{silhouette}','{background}')
     });
     // Start with empty search to show all options
