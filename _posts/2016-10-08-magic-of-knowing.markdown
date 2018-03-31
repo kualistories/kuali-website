@@ -2,7 +2,7 @@
 layout: post
 title: Magic of knowing
 author: Toh Eu Shern
-date: 2016-10-08 15:39:40
+date: 2016-10-08
 tags: interview epiphanies
 silhouette: /img/sil2.jpg
 background: /img/bg3.jpg

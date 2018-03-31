@@ -2,7 +2,7 @@
 layout: post
 title:  The throwdown
 author: Chan Jun Shern
-date: 2016-10-07 15:39:40
+date: 2016-10-07
 tags: anecdote
 silhouette: /img/sil1.jpg
 background: /img/bg2.jpg

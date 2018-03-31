@@ -2,7 +2,7 @@
 layout: post
 title: Relentless optimism
 author: Chloe Lee
-date: 2017-10-09 15:39:40
+date: 2017-10-09
 tagsy: philosophical
 silhouette: /img/sil3.jpg
 background: /img/bg1.jpg

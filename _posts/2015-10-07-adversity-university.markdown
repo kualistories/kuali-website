@@ -2,7 +2,7 @@
 layout: post
 title:  Adversity university
 author: Chan Jun Shern
-date: 2015-10-07 15:39:40
+date: 2015-10-07
 tags: interview university
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg

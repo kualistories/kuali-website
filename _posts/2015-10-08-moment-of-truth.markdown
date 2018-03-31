@@ -2,7 +2,7 @@
 layout: post
 title:  Moment of truth
 author: Toh Eu Shern
-date: 2015-10-08 15:39:40
+date: 2015-10-08
 tags: epiphanies
 silhouette: /img/sil2.jpg
 background: /img/bg2.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: Crossroads
 author: Chloe Lee
-date: 2015-10-09 15:39:40
+date: 2015-10-09
 tags: philosophical
 silhouette: /img/sil3.jpg
 background: /img/bg1.jpg
