@@ -59,30 +59,6 @@
 {% assign tags_list = nil %}
 </div>
 
-<input type="search" id="search-input" placeholder="Search by title, author, tag, content ...">
+<input type="search" id="search-input" placeholder="Search by title, author, tag ...">
 
 <div id="results-container"></div>
-
-<!-- <div class="grid-container">
-{% for post in site.posts %}
-<div class="preview-panel">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        
-        <div class="panel-container">
-            <div class="panel-img" style="background: 
-                url('{{ post.background }}'), 
-                url('{{ post.silhouette }}');
-                background-size:cover;"></div>
-            <div class="panel-color"></div>
-
-            <div class="panel-info">
-                <h2><span>{{ post.author }}</span></h2>
-                <h3><span>{{ post.title }}</span></h3>
-                <p class="excerpt"><i>{{ post.content | strip_html | truncatewords: 15 }}</i></p>
-            </div>
-        </div>
-    </a>
-</div>
-{% endfor %}
-{% cycle 'end row' : '', '</div>', '</div>' %}    
-</div> -->
