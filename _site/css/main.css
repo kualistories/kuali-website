@@ -653,10 +653,12 @@ img {
     /* Opera */
     transform: scale(1.05);
     opacity: 0.2; }
-  .panel-container:hover .panel-color {
-    opacity: 0.7; }
+  .panel-container:hover .panel-color, .panel-container:hover .panel-color-search {
+    opacity: 0.5; }
   .panel-container:hover .excerpt {
     display: block; }
+  .panel-container:hover h2, .panel-container:hover h3 {
+    display: none; }
 
 .panel-img {
   -webkit-transition: all 0.2s ease;
