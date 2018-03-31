@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Do or do not"
+title: Do or do not
 author: Toh Eu Shern
-date:   2016-10-08 15:39:40
-category: epiphanies
+date: 2016-10-08 15:39:40
+tags: epiphanies
 silhouette: /img/sil2.jpg
 background: /img/bg3.jpg
 ---

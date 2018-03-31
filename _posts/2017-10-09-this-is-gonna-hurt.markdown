@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "This is gonna hurt"
+title: This is gonna hurt
 author: Chloe Lee
-date:   2017-10-09 15:39:40
-category: hindsight
+date: 2017-10-09 15:39:40
+tags: hindsight
 silhouette: /img/sil3.jpg
 background: /img/bg3.jpg
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "A letter to myself"
+title: A letter to myself
 author: Toh Eu Shern
-date:   2017-10-08 15:39:40
-category: hindsight
+date: 2017-10-08 15:39:40
+tags: hindsight
 silhouette: /img/sil2.jpg
 background: /img/bg1.jpg
 ---

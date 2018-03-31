@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "There's always more"
+title:  There's always more
 author: Chloe Lee
-date:   2015-10-09 15:39:40
-category: hindsight
+date: 2015-10-09 15:39:40
+tags: interview hindsight
 silhouette: /img/sil3.jpg
 background: /img/bg1.jpg
 ---

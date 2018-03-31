@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "There's a gun to your head"
+title: There's a gun to your head
 author: Chan Jun Shern
-date:   2017-10-07 15:39:40
-category: philosophy
+date: 2017-10-07 15:39:40
+tags: philosophy
 silhouette: /img/sil1.jpg
 background: /img/bg3.jpg
 ---

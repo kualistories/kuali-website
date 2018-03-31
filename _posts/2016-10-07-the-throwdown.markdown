@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "The throwdown"
+title:  The throwdown
 author: Chan Jun Shern
-date:   2016-10-07 15:39:40
-category: anecdote
+date: 2016-10-07 15:39:40
+tags: anecdote
 silhouette: /img/sil1.jpg
 background: /img/bg2.jpg
 ---

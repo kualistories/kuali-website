@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Family vs Friends"
+title: Family vs Friends
 author: Chan Jun Shern
-date:   2017-10-07 15:39:40
-category: anecdote
+date: 2017-10-07 15:39:40
+tags: anecdote
 silhouette: /img/sil1.jpg
 background: /img/bg3.jpg
 ---
