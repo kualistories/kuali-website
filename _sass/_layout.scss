@@ -38,11 +38,27 @@
 
 .post-nav {
     text-align: center;
-    padding: 1rem;
+    padding: 2rem;
+    font-weight: 300; 
 }
 
+.post-header {
+    padding: 40px 0px;
+}
 .post-title {
     display: block;
+    font-size: 4rem;
+    font-weight: 900;
+}
+.post-info {
+    display: block;
+    font-size: 2rem;
+    font-weight: 400;
+}
+.post-content {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 300;
 }
 
 .row {
@@ -146,16 +162,18 @@
     
     h2 {
         font-size: 2.7rem;
-        font-weight: bold;
+        font-weight: 700;
         margin: 0px;
     }
     h3 {
         font-size: 2rem;
+        font-weight: 500;
         margin: 0px;
         margin-bottom: 2rem;
     }
     .excerpt {
         font-size: 1.5rem;
+        font-weight: 500;
         display: none;
     }
 }
@@ -191,6 +209,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 2rem;
+    font-weight: 300;
     color: rgba(50,50,50,1);
 }
 a {
@@ -200,10 +219,13 @@ a {
 .section-header {
     clear: both;
     padding-top: 20px;
-    border-bottom: 2px solid rgba(50,50,50,1);
+    border-bottom: 1px solid rgba(150,150,150,1);
 }
 h3.section-header {
     margin-bottom: 10px;
+    font-size: 3rem;
+    // line-height: 1.3;
+    font-weight: 700;
 }
 
 /**

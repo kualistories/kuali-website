@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: What is Kuali?
 permalink: /about/
 ---
 
