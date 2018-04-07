@@ -10,7 +10,7 @@ summary: Driven, ambitious and proactive, he not only engaged in scholarly pursu
 chunk-origin: 
 editors-note: Wee Rock studied Biochemistry at Imperial College London and was a Choreographer for Senior Dance. Driven, ambitious and proactive, he not only engaged in scholarly pursuits at Imperial but also used his time in university to explore several interests outside of academia. Now, he’s hoping to move to KL to focus on his self-started company. 
 ---
- 
+
 **What would you say to your pre-uni self?**
 
 The main thing I’d say is that the dynamics of university are very different from high school. In high school or college, there was a defined set of targets and expectations put forward by others, for instance scoring well in school exams, looking for scholarship opportunities, entering a good university etc. 
