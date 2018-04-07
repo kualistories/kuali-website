@@ -1,3 +1,4 @@
+---
 layout: post
 title: Relentless optimism
 author: Chan Jun Shern
@@ -6,6 +7,7 @@ tags: philosophical, psychology, motivational
 silhouette: /img/junshern_pic.jpg
 background: /img/picture_of_a_happy_dog.jpg
 summary: In psychology class, they teach you about self-fulfilling prophecies. Here's the part they usually leave out: you can use it as a tool.
+---
 
 _This article first emerged as part of a larger conversation we had with Jun Shern. Read the full interview [here](/2012/04/07/conversations_2)!_
 
