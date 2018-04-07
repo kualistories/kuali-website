@@ -43,12 +43,12 @@ body {
  * Copyright (c) 2017 CJ Patoilo
  * Licensed under the MIT license
  */
-blockquote {
+blockquote, .post-content .chunk-note, .post-content .editors-note {
   border-left: 0.3rem solid #d1d1d1;
   margin-left: 0;
   margin-right: 0;
   padding: 1rem 1.5rem; }
-  blockquote *:last-child {
+  blockquote *:last-child, .post-content .chunk-note *:last-child, .post-content .editors-note *:last-child {
     margin-bottom: 0; }
 
 /*!
@@ -445,7 +445,7 @@ select,
 textarea {
   margin-bottom: 1.5rem; }
 
-blockquote,
+blockquote, .post-content .chunk-note, .post-content .editors-note,
 dl,
 figure,
 form,
@@ -620,6 +620,24 @@ img {
   font-family: 'Roboto', sans-serif;
   font-size: 1.8rem;
   font-weight: 300; }
+  .post-content blockquote, .post-content .chunk-note, .post-content .editors-note {
+    border-left: 0.3rem solid rgba(251, 87, 82, 0.6);
+    background: rgba(251, 87, 82, 0.2);
+    font-size: 2rem; }
+  .post-content .chunk-note {
+    border-left: 0.3rem solid rgba(243, 169, 79, 0.7);
+    background: rgba(243, 169, 79, 0.3);
+    font-size: 1.5rem; }
+    .post-content .chunk-note a {
+      color: #b74f3b; }
+  .post-content .editors-note {
+    border-left: 0.3rem solid rgba(127, 181, 142, 0.6);
+    background: rgba(127, 181, 142, 0.2);
+    font-size: 1.5rem;
+    font-style: italic; }
+  .post-content hr {
+    height: 2px;
+    background: lightgrey; }
 
 .row {
   padding: 10px 0px; }

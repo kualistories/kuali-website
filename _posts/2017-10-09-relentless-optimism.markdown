@@ -1,20 +1,14 @@
 ---
 layout: post
-title: Relentless optimism
-author: Chloe Lee
+title: My MNight experience
+author: Nicholas Oon
 date: 2017-10-09
 tagsy: philosophical
 silhouette: /img/sil3.jpg
 background: /img/bg1.jpg
-summary: Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.
+summary: Learning and embodying what it means to be Malaysian, and showing the world what we have to offer. 
 ---
 
-Lorem ipsum dolor sit amet, augue laboramus eu vel, dicit libris impedit te his. Vim euismod blandit at, ea eos vitae oporteat. Viris consul eam ea, brute appareat no sea. Nec velit indoctum no, dolores singulis persequeris no sea. Solum offendit at nec, nusquam lobortis omittantur in nam. Eum no esse dicta, mea ut falli munere, duo ne labitur dolorum scriptorem.
+The main thing I have to say is that MNight is great but it WILL take up a lot of your time, and you need to be conscious of the pros and cons of joining it. MNight serves as an excellent entry point to learning and embodying what it means to be Malaysian and shows the world what Malaysians have to offer in terms of what we stand for and what talents we have to offer (and boy do we see a lot of talent on display!). On the flipside, however, something that doesn’t come up often about MNight is that involving yourself too heavily in it will effectively close the door off to many things you can do in terms of exploring other interests outside the Malaysian bubble (skydiving, mountaineering, and other sports, to name a few).
 
-Ei est eripuit fierent. Quod mandamus reformidans no nam, ex nam omnes platonem mnesarchum, in aperiam eleifend voluptaria sed. Eam minim aperiam cu, vix possit inimicus concludaturque ei. Quo te malis corpora, at vis fastidii sapientem temporibus. Magna timeam ea vix, sea meis labores definitionem an.
-
-Duo at verterem accusamus maiestatis, ut homero populo ceteros mei. Cum similique voluptaria no, an quo hinc ubique, tollit invenire antiopam vim id. Scripserit suscipiantur et pri. Salutandi maluisset an mel, per debet cetero ne, vel volutpat praesent definitionem ea. Has et postea legendos. Congue melius accumsan an vel, te vis viderer docendi.
-
-Quo ut nullam feugiat convenire. Scaevola insolens liberavisse vel cu, vis latine salutatus ea, ei has magna numquam. Omittam accusata his eu, mel an iuvaret volumus mediocrem. Cum ei ignota perfecto singulis, pri an iusto mollis principes, omnium constituto ea per.
-
-Ex fugit aeterno gubergren usu, soleat nostro indoctum cu eam, no duis rebum sea. Mel graeco delectus vituperatoribus id, sea elit legimus alienum id. Malis everti instructior cu mea, sed clita nominavi forensibus cu. Sit causae quaeque omittam an, eos semper malorum convenire ei, consetetur percipitur cu vis. In eum purto vulputate. An mel tota appareat consectetuer, no mollis timeam convenire vel.
+To be fair, I would highly recommend it if you’re looking to develop a wide range of skills and especially your network; however, I think it’s worth considering joining in the first year and perhaps taking the second year to explore your options elsewhere, getting out of your comfort zone. From an alumni’s perspective, however, we also definitely encourage you to come help out as if you feel like you want to give it a shot, as we definitely need brilliant people to helm various positions (choreographers, committee members, ushers etc) to help out the next batch of first years. 

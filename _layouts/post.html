@@ -17,6 +17,15 @@ layout: default
   </header>
   
   <article class="post-content">
+    {% if page.chunk-origin %}
+    <div class="chunk-note">
+      This article first emerged as part of a larger conversation we had with {{ page.author }}. 
+      Read the full interview <a href="{{ page.chunk-origin }}">here</a>!
+    </div>
+    {% endif %}
+    {% if page.editors-note %}
+    <div class="editors-note">Editor's note: {{page.editors-note}}</div>
+    {% endif %}
     {{ content }}
   </article>
 

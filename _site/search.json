@@ -1,37 +1,25 @@
 [
   
     {
-      "title"    : "This is gonna hurt",
-      "author"   : "Chloe Lee",
-      "category" : "",
-      "tags"     : "hindsight",
-      "url"      : "/2017/10/09/this-is-gonna-hurt/",
-      "date"     : "2017-10-09 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
-      "silhouette": "/img/sil3.jpg",
-      "background": "/img/bg3.jpg"
-    } ,
-  
-    {
-      "title"    : "Relentless optimism",
-      "author"   : "Chloe Lee",
+      "title"    : "My MNight experience",
+      "author"   : "Nicholas Oon",
       "category" : "",
       "tags"     : "",
       "url"      : "/2017/10/09/relentless-optimism/",
       "date"     : "2017-10-09 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
+      "summary"  : "Learning and embodying what it means to be Malaysian, and showing the world what we have to offer.",
       "silhouette": "/img/sil3.jpg",
       "background": "/img/bg1.jpg"
     } ,
   
     {
-      "title"    : "A letter to myself",
-      "author"   : "Toh Eu Shern",
+      "title"    : "How to find your passion",
+      "author"   : "Nicholas Oon",
       "category" : "",
       "tags"     : "hindsight",
-      "url"      : "/2017/10/08/a-letter-to-myself/",
+      "url"      : "/2017/10/08/how-to-find-your-passion/",
       "date"     : "2017-10-08 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
+      "summary"  : "Maintain a high throughput system - which basically means, try as many things as possible.",
       "silhouette": "/img/sil2.jpg",
       "background": "/img/bg1.jpg"
     } ,
@@ -49,6 +37,18 @@
     } ,
   
     {
+      "title"    : "Going off the deep end",
+      "author"   : "Kueh Wee Rock",
+      "category" : "",
+      "tags"     : "interview, university",
+      "url"      : "/2017/10/07/going-off-the-deep-end/",
+      "date"     : "2017-10-07 00:00:00 +0100",
+      "summary"  : "In university, there is an absence of short term goals. You know you have to do something, but what?",
+      "silhouette": "/img/sil1.jpg",
+      "background": "/img/bg1.jpg"
+    } ,
+  
+    {
       "title"    : "Family vs Friends",
       "author"   : "Chan Jun Shern",
       "category" : "",
@@ -57,6 +57,18 @@
       "date"     : "2017-10-07 00:00:00 +0100",
       "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
       "silhouette": "/img/sil1.jpg",
+      "background": "/img/bg3.jpg"
+    } ,
+  
+    {
+      "title"    : "Conversations [1]",
+      "author"   : "Nicholas Oon",
+      "category" : "",
+      "tags"     : "hindsight",
+      "url"      : "/2017/08/31/conversations_1/",
+      "date"     : "2017-08-31 00:00:00 +0100",
+      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
+      "silhouette": "/img/sil3.jpg",
       "background": "/img/bg3.jpg"
     } ,
   
@@ -133,13 +145,13 @@
     } ,
   
     {
-      "title"    : "Adversity university",
+      "title"    : "Relentless optimism",
       "author"   : "Chan Jun Shern",
       "category" : "",
-      "tags"     : "interview, university",
-      "url"      : "/2015/10/07/adversity-university/",
-      "date"     : "2015-10-07 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
+      "tags"     : "philosophical,, psychology,, motivational",
+      "url"      : "/2010/10/30/relentless-optimism/",
+      "date"     : "2010-10-30 00:00:00 +0100",
+      "summary"  : "In psychology class, they teach you about self-fulfilling prophecies. The part they usually leave out? You can use it as a tool.",
       "silhouette": "/img/sil1.jpg",
       "background": "/img/bg1.jpg"
     } 

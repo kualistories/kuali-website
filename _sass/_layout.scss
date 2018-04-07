@@ -59,6 +59,33 @@
     font-family: 'Roboto', sans-serif;
     font-size: 1.8rem;
     font-weight: 300;
+    blockquote {
+        border-left: 0.3rem solid rgba(251, 87, 82, 0.6);
+        background: rgba(251, 87, 82, 0.2);
+        font-size: 2rem;
+    }
+    .chunk-note {
+        @extend blockquote;
+        border-left: 0.3rem solid rgba(243, 169, 79, 0.7);
+        background: rgba(243, 169, 79, 0.3);
+        font-size: 1.5rem;
+        a {
+            color: rgba(183, 79, 59, 1);
+        }
+    }
+    .editors-note {
+        @extend blockquote;
+        border-left: 0.3rem solid rgba(127, 181, 142, 0.6);
+        background: rgba(127, 181, 142, 0.2);
+        font-size: 1.5rem;
+        font-style: italic
+    }
+    hr {
+        height: 2px;
+        background: lightgrey;
+        // background: url(/assets/hr.png) repeat-x 0 0;
+        // border: 3px;
+    }
 }
 
 .row {
