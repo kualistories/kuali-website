@@ -7,7 +7,7 @@ tags: philosophical, psychology, motivational
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg
 summary: In psychology class, they teach you about self-fulfilling prophecies. The part they usually leave out? You can use it as a tool.
-chunk-origin: /2017/08/31/conversations_1
+chunk-origin: /YYYY/MM/DD/interview-article-title
 editors-note: This is a sample written for the purpose of demonstrating how articles are formatted on Kuali.
 ---
 

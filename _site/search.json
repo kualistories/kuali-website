@@ -1,147 +1,27 @@
 [
   
     {
-      "title"    : "My MNight experience",
-      "author"   : "Nicholas Oon",
+      "title"    : "Kuali Conversations 1",
+      "author"   : "Kueh Wee Rock",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/2017/10/09/relentless-optimism/",
-      "date"     : "2017-10-09 00:00:00 +0100",
-      "summary"  : "Learning and embodying what it means to be Malaysian, and showing the world what we have to offer.",
-      "silhouette": "/img/sil3.jpg",
-      "background": "/img/bg1.jpg"
-    } ,
-  
-    {
-      "title"    : "How to find your passion",
-      "author"   : "Nicholas Oon",
-      "category" : "",
-      "tags"     : "hindsight",
-      "url"      : "/2017/10/08/how-to-find-your-passion/",
-      "date"     : "2017-10-08 00:00:00 +0100",
-      "summary"  : "Maintain a high throughput system - which basically means, try as many things as possible.",
+      "tags"     : "interview, university, entrepreneurship, depression",
+      "url"      : "/2018/04/07/kuali-conversations-1/",
+      "date"     : "2018-04-07 00:00:00 +0100",
+      "summary"  : "Driven, ambitious and proactive, he not only engaged in scholarly pursuits at Imperial but also used his time in university to explore several interests outside of academia, including starting a business.",
       "silhouette": "/img/sil2.jpg",
-      "background": "/img/bg1.jpg"
-    } ,
-  
-    {
-      "title"    : "There&#39;s a gun to your head",
-      "author"   : "Chan Jun Shern",
-      "category" : "",
-      "tags"     : "philosophy",
-      "url"      : "/2017/10/07/theres-a-gun-to-your-head/",
-      "date"     : "2017-10-07 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
-      "silhouette": "/img/sil1.jpg",
-      "background": "/img/bg3.jpg"
+      "background": "/img/bg2.jpg"
     } ,
   
     {
       "title"    : "Going off the deep end",
       "author"   : "Kueh Wee Rock",
       "category" : "",
-      "tags"     : "interview, university",
-      "url"      : "/2017/10/07/going-off-the-deep-end/",
-      "date"     : "2017-10-07 00:00:00 +0100",
+      "tags"     : "philosophical,, psychology,, motivational",
+      "url"      : "/2017/10/30/going-off-the-deep-end/",
+      "date"     : "2017-10-30 00:00:00 +0000",
       "summary"  : "In university, there is an absence of short term goals. You know you have to do something, but what?",
       "silhouette": "/img/sil1.jpg",
       "background": "/img/bg1.jpg"
-    } ,
-  
-    {
-      "title"    : "Family vs Friends",
-      "author"   : "Chan Jun Shern",
-      "category" : "",
-      "tags"     : "anecdote",
-      "url"      : "/2017/10/07/family-vs-friends/",
-      "date"     : "2017-10-07 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
-      "silhouette": "/img/sil1.jpg",
-      "background": "/img/bg3.jpg"
-    } ,
-  
-    {
-      "title"    : "Conversations [1]",
-      "author"   : "Nicholas Oon",
-      "category" : "",
-      "tags"     : "hindsight",
-      "url"      : "/2017/08/31/conversations_1/",
-      "date"     : "2017-08-31 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
-      "silhouette": "/img/sil3.jpg",
-      "background": "/img/bg3.jpg"
-    } ,
-  
-    {
-      "title"    : "Magic of knowing",
-      "author"   : "Toh Eu Shern",
-      "category" : "",
-      "tags"     : "interview, epiphanies",
-      "url"      : "/2016/10/08/magic-of-knowing/",
-      "date"     : "2016-10-08 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
-      "silhouette": "/img/sil2.jpg",
-      "background": "/img/bg3.jpg"
-    } ,
-  
-    {
-      "title"    : "Do or do not",
-      "author"   : "Toh Eu Shern",
-      "category" : "",
-      "tags"     : "epiphanies",
-      "url"      : "/2016/10/08/do-or-do-not/",
-      "date"     : "2016-10-08 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
-      "silhouette": "/img/sil2.jpg",
-      "background": "/img/bg3.jpg"
-    } ,
-  
-    {
-      "title"    : "The throwdown",
-      "author"   : "Chan Jun Shern",
-      "category" : "",
-      "tags"     : "anecdote",
-      "url"      : "/2016/10/07/the-throwdown/",
-      "date"     : "2016-10-07 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
-      "silhouette": "/img/sil1.jpg",
-      "background": "/img/bg2.jpg"
-    } ,
-  
-    {
-      "title"    : "Crossroads",
-      "author"   : "Chloe Lee",
-      "category" : "",
-      "tags"     : "philosophical",
-      "url"      : "/2015/10/09/crossroads/",
-      "date"     : "2015-10-09 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
-      "silhouette": "/img/sil3.jpg",
-      "background": "/img/bg1.jpg"
-    } ,
-  
-    {
-      "title"    : "There&#39;s always more",
-      "author"   : "Chloe Lee",
-      "category" : "",
-      "tags"     : "interview, hindsight",
-      "url"      : "/2015/10/09/theres-always-more/",
-      "date"     : "2015-10-09 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
-      "silhouette": "/img/sil3.jpg",
-      "background": "/img/bg1.jpg"
-    } ,
-  
-    {
-      "title"    : "Moment of truth",
-      "author"   : "Toh Eu Shern",
-      "category" : "",
-      "tags"     : "epiphanies",
-      "url"      : "/2015/10/08/moment-of-truth/",
-      "date"     : "2015-10-08 00:00:00 +0100",
-      "summary"  : "Lorem ipsum dolor sit amet consectetur adipiscing elit, nunc lectus metus turpis augue donec, est sapien orci curae nisl arcu.",
-      "silhouette": "/img/sil2.jpg",
-      "background": "/img/bg2.jpg"
     } ,
   
     {
