@@ -2,7 +2,7 @@
 layout: post
 title: Depression at University
 author: Kueh Wee Rock
-date: 1 October 2018
+date: 2017-10-01
 tags: University Depression 
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg
