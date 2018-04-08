@@ -7,7 +7,7 @@ tags: philosophical, psychology, motivational
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg
 summary: In university, there is an absence of short term goals. You know you have to do something, but what?
-chunk-origin: /2017/10/01/FULL-Conversations-with-Wee-Rock.markdown
+chunk-origin: /2017/10/01/[FULL]-Conversations-with-Wee-Rock.markdown
 editors-note: 
 ---
 
