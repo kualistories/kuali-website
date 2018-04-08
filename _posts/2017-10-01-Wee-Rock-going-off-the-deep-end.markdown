@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Going off the deep end
+title: Going Off the Deep End
 author: Kueh Wee Rock
 date: 2017-10-01
-tags: philosophical, psychology, motivational
+tags: university
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg
 summary: In university, there is an absence of short term goals. You know you have to do something, but what?

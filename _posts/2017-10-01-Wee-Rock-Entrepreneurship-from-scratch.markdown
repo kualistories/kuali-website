@@ -3,7 +3,7 @@ layout: post
 title: Entrepreneurship from Scratch
 author: Kueh Wee Rock
 date: 2017-10-01
-tags: University Entrepreneurship Marketing
+tags: university entrepreneurship marketing
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg
 summary: Growing your own lemons when life gives you none.

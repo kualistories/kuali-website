@@ -6,12 +6,12 @@
 </description>
     <link>http://kualistories.github.io/</link>
     <atom:link href="http://kualistories.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Apr 2018 18:20:25 +0100</pubDate>
-    <lastBuildDate>Sun, 08 Apr 2018 18:20:25 +0100</lastBuildDate>
+    <pubDate>Sun, 08 Apr 2018 18:35:16 +0100</pubDate>
+    <lastBuildDate>Sun, 08 Apr 2018 18:35:16 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Going off the deep end</title>
+        <title>Going Off the Deep End</title>
         <description>&lt;p&gt;The dynamics of university are very different from high school. In high school or college, there was a defined set of targets and expectations put forward by others, for instance scoring well in school exams, looking for scholarship opportunities, entering a good university etc.&lt;/p&gt;
 
 &lt;p&gt;In university, you are on your own. You are responsible for every decision you make and every decision you make might decide who you are and what you do in the very near future. One major difference I noticed lies in the absence of short-term goals like what you would have during high school. You know you have to do something but what? How? I felt lost and perhaps depressed, to a certain extent.&lt;/p&gt;
@@ -36,11 +36,7 @@
         <link>http://kualistories.github.io/2017/10/01/Wee-Rock-going-off-the-deep-end/</link>
         <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Wee-Rock-going-off-the-deep-end/</guid>
         
-        <category>philosophical,</category>
-        
-        <category>psychology,</category>
-        
-        <category>motivational</category>
+        <category>university</category>
         
         
       </item>
@@ -79,11 +75,11 @@
         <link>http://kualistories.github.io/2017/10/01/Wee-Rock-Entrepreneurship-from-scratch/</link>
         <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Wee-Rock-Entrepreneurship-from-scratch/</guid>
         
-        <category>University</category>
+        <category>university</category>
         
-        <category>Entrepreneurship</category>
+        <category>entrepreneurship</category>
         
-        <category>Marketing</category>
+        <category>marketing</category>
         
         
       </item>
@@ -110,9 +106,9 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
         <link>http://kualistories.github.io/2017/10/01/Wee-Rock-Depression-at-university/</link>
         <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Wee-Rock-Depression-at-university/</guid>
         
-        <category>University</category>
+        <category>university</category>
         
-        <category>Depression</category>
+        <category>depression</category>
         
         
       </item>
@@ -246,9 +242,9 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
         <link>http://kualistories.github.io/2010/10/30/relentless-optimism/</link>
         <guid isPermaLink="true">http://kualistories.github.io/2010/10/30/relentless-optimism/</guid>
         
-        <category>philosophical,</category>
+        <category>philosophical</category>
         
-        <category>psychology,</category>
+        <category>psychology</category>
         
         <category>motivational</category>
         
