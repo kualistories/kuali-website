@@ -13,7 +13,7 @@ editors-note: Wee Rock studied Biochemistry at Imperial College London and was a
 
 **What would you say to your pre-uni self?**
 
-![lost]{https://kualistories.github.io/img/Lost1.jpg)
+![lost](https://kualistories.github.io/img/Lost1.jpg)
 
 The dynamics of university are very different from high school. In high school or college, there was a defined set of targets and expectations put forward by others, for instance scoring well in school exams, looking for scholarship opportunities, entering a good university etc. 
 
@@ -43,7 +43,7 @@ In my second and third year, I felt a lot more comfortable. I eventually started
 
 **Can you elaborate more on the “depression” aspect?**
 
-![depression]{https://kualistories.github.io/img/Depression.jpg)
+![depression](https://kualistories.github.io/img/Depression.jpg)
 
 Something that I noticed in Imperial is that depressed people tend to be quite evasive regarding their issues and are reluctant to admit they’re in trouble. In particular, people don’t want others to pity them and that contributes to the idea that depression is ‘taboo’. 
 
