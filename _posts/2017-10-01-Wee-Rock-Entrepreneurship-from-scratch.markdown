@@ -25,12 +25,12 @@ I started a social enterprise with my business partner in Malaysia and recruited
 
 It was very rough in the beginning, especially when looking for investments or partnerships, as no one wants to support a company with no proven track record. When you have no experience and no capital to do stuff, you need to get them yourself. You need to build the experience and if it is possible, use that experience to build your capital. 
 
-For my entire three years at university, I never traveled outside of London - except Brighton and Malaysia, if that counts! Instead, I spent my time building new skills. 
+> When you have no experience and no capital to do stuff, you need to get them yourself.
 
 ![startup](https://kualistories.github.io/img/Startup.jpg)
 
->From scratch, I studied graphic design, digital marketing, and business, realms that I never ventured into before and never thought I would prior to my startup project. 
+For my entire three years at university, I never traveled outside of London - except Brighton and Malaysia, if that counts! Instead, I spent my time building new skills. From scratch, I studied graphic design, digital marketing, and business, realms that I never ventured into before and never thought I would prior to my startup project. After a while, I started marketing my skills to international clients via various online platforms and begin building my client base. 
 
-After a while, I started marketing my skills to international clients via various online platforms and begin building my client base. During that period, I slept only 5 hours a day and had a ton of caffeine - not really advisable for a uni student! Nevertheless, I survived, and although the project didn’t manage to launch in the end (we put it on hold as we weren’t satisfied with the final quality of the products), we definitely learned a lot from it. 
+During that period, I slept only 5 hours a day and had a ton of caffeine - not really advisable for a uni student! Nevertheless, I survived, and although the project didn’t manage to launch in the end (we put it on hold as we weren’t satisfied with the final quality of the products), we definitely learned a lot from it. 
 
 Recently, I have just launched another company with my partner, offering digital services to both local and international clients.  We hope that through this company we could eventually build up a core team that we trust as well as sufficient capital so that we could revisit our initial idea in the very near future. 
