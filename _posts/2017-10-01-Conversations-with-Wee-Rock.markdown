@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[FULL]" Conversations with Wee Rock
+title: "[FULL] Conversations with Wee Rock"
 author: Kueh Wee Rock
 date: 2017-10-01
 tags: interview university entrepreneurship depression
