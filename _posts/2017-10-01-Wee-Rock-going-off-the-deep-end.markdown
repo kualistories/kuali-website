@@ -11,11 +11,11 @@ chunk-origin: /2018/04/07/kuali-conversations-1
 editors-note: 
 ---
 
-![lost](https://kualistories.github.io/img/Lost1.jpg)
-
 The dynamics of university are very different from high school. In high school or college, there was a defined set of targets and expectations put forward by others, for instance scoring well in school exams, looking for scholarship opportunities, entering a good university etc. 
 
 In university, you are on your own. You are responsible for every decision you make and every decision you make might decide who you are and what you do in the very near future. One major difference I noticed lies in the absence of short-term goals like what you would have during high school. You know you have to do something but what? How? I felt lost and perhaps depressed, to a certain extent. 
+
+![lost](https://kualistories.github.io/img/Lost1.jpg)
 
 When I first entered university, I actually felt that the language and culture barrier was a factor that hindered social mingling, which was quite surprising to me. I assumed that it would go okay but I found it a bit challenging to mingle with the locals. To be frank, I found the local accent quite hard to understand; I connected better with international students and we knew how each other felt, since we were all trying our best to communicate and learn together. 
 
