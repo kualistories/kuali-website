@@ -27,7 +27,7 @@ It was very rough in the beginning, especially when looking for investments or p
 
 For my entire three years at university, I never traveled outside of London - except Brighton and Malaysia, if that counts! Instead, I spent my time building new skills. 
 
-![startup](https://kualistories.github.io/img/Start up.jpg)
+![startup](https://kualistories.github.io/img/Startup.jpg)
 
 >From scratch, I studied graphic design, digital marketing, and business, realms that I never ventured into before and never thought I would prior to my startup project. 
 
