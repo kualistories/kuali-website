@@ -57,6 +57,7 @@ I’d say to always prepare yourself for failure; things don’t always turn out
 
 <div class='editors-note'>Editor’s Note: Depression is a serious and complicated illness, and we would like to point out that depression can take many forms; experiences and symptoms stated here might differ with the experience of others that are experiencing depression, and the coping mechanisms that may work for one may not work as well for another person.</div>
 
+
 **Can you elaborate more on the business that you started? I think it’d be helpful to give readers a glimpse of what is possible for them to accomplish even while they are at university.**
 
 I started a social enterprise with my business partner in Malaysia and recruited a few of my friends to join the team. The essence of a social entrepreneurship is building a business that gives back to the community, which I personally feel quite strongly about. 
