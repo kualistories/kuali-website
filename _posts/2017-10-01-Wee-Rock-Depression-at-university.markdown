@@ -23,4 +23,7 @@ I think Malaysian scholars, in particular, have very high expectations of themse
 
 I’d say to always prepare yourself for failure; things don’t always turn out the way you want them to and that’s alright, you shouldn’t beat yourself up over it. Learn and salvage as much as possible from your mistake. Don’t dwell on it, work on it. 
 
+
+
+
 *Editor’s Note: Depression is a serious and complicated illness, and we would like to point out that depression can take many forms; experiences and symptoms stated here might differ with the experience of others that are experiencing depression, and the coping mechanisms that may work for one may not work as well for another person.*
