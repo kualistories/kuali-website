@@ -13,11 +13,11 @@ editors-note: Wee Rock studied Biochemistry at Imperial College London and was a
 
 **What would you say to your pre-uni self?**
 
-![lost](https://kualistories.github.io/img/Lost1.jpg)
-
 The dynamics of university are very different from high school. In high school or college, there was a defined set of targets and expectations put forward by others, for instance scoring well in school exams, looking for scholarship opportunities, entering a good university etc. 
 
 In university, you are on your own. You are responsible for every decision you make and every decision you make might decide who you are and what you do in the very near future. One major difference I noticed lies in the absence of short-term goals like what you would have during high school. You know you have to do something but what? How? I felt lost and perhaps depressed, to a certain extent. 
+
+![lost](https://kualistories.github.io/img/Lost1.jpg)
 
 In my second and third year, I started a few projects as well as some business endeavors. It was a tremendously exhausting journey but surprisingly I felt much better than I was in first year.  I found a path and a purpose, though it might not be the easiest path to walk on. I might trip or fall a lot but even if I do, I am moving forward. 
 
