@@ -7,7 +7,7 @@ tags: University Entrepreneurship Marketing
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg
 summary: Growing your own lemons when life gives you none.
-chunk-origin: /2017/10/01/FULL-Conversations-with-Wee-Rock.markdown
+chunk-origin: /2017/10/01/Conversations-with-Wee-Rock
 editors-note: 
 ---
 

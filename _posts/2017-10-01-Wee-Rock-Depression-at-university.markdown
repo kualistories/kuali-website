@@ -7,7 +7,7 @@ tags: University Depression
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg
 summary: A lot of students suffer from it, from what I’ve seen. 
-chunk-origin: /2017/10/01/Conversations-with-Wee-Rock.markdown
+chunk-origin: /2017/10/01/Conversations-with-Wee-Rock
 editors-note: 
 ---
 
