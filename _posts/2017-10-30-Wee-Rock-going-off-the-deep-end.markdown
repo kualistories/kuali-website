@@ -17,9 +17,11 @@ The dynamics of university are very different from high school. In high school o
 
 In university, you are on your own. You are responsible for every decision you make and every decision you make might decide who you are and what you do in the very near future. One major difference I noticed lies in the absence of short-term goals like what you would have during high school. You know you have to do something but what? How? I felt lost and perhaps depressed, to a certain extent. 
 
-When I first entered university, I actually felt that the language and culture barrier was a factor that hindered social mingling, which was quite surprising to me. I assumed that it would go okay but I found it a bit challenging to mingle with the locals. To be frank, I found the local accent quite hard to understand; I connected better with international students and we knew how each other felt, since we were all trying our best to communicate and learn together. Due to the language and cultural barriers, I struggled a little in making deeper connections with people even though I had no problem doing so back in Malaysia, but it did get better eventually.
+When I first entered university, I actually felt that the language and culture barrier was a factor that hindered social mingling, which was quite surprising to me. I assumed that it would go okay but I found it a bit challenging to mingle with the locals. To be frank, I found the local accent quite hard to understand; I connected better with international students and we knew how each other felt, since we were all trying our best to communicate and learn together. 
 
-> Due to the language and cultural barriers, I struggled a little in making deeper connections with people.
+> Due to the language and cultural barriers, I struggled a little in making deeper connections with people...
+
+...even though I had no problem doing so back in Malaysia, but it did get better eventually.
 
 As mentioned previously I also felt lost as I was questioning what was the point of studying so hard in university. “What’s the next step?” I wondered, especially since I could see the end of university coming soon, and with that, there was a need to “step into society” and do something worthwhile as a career. 
 
