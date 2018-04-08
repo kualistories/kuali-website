@@ -11,7 +11,7 @@ chunk-origin: This article first emerged as part of a larger conversation we had
 editors-note: 
 ---
 
-kualistories.github.io/img/Depression.jpg
+![depression](kualistories.github.io/img/Depression.jpg)
 
 Something that I noticed in Imperial is that depressed people tend to be quite evasive regarding their issues and are reluctant to admit they’re in trouble. In particular, people don’t want others to pity them and that contributes to the idea that depression is ‘taboo’. 
 
