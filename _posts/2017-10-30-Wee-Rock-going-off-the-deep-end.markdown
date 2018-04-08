@@ -11,7 +11,7 @@ chunk-origin: /2018/04/07/kuali-conversations-1
 editors-note: 
 ---
 
-![lost](http://kualistories.github.io/img/Lost 1.jpg)
+![lost](https://kualistories.github.io/img/Lost 1.jpg)
 
 The dynamics of university are very different from high school. In high school or college, there was a defined set of targets and expectations put forward by others, for instance scoring well in school exams, looking for scholarship opportunities, entering a good university etc. 
 
