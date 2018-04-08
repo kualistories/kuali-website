@@ -2,7 +2,7 @@
 layout: post
 title: Going off the deep end
 author: Kueh Wee Rock
-date: 2017-10-30
+date: 2017-10-01
 tags: philosophical, psychology, motivational
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg
@@ -10,6 +10,8 @@ summary: In university, there is an absence of short term goals. You know you ha
 chunk-origin: /2018/04/07/kuali-conversations-1
 editors-note: 
 ---
+
+![lost](http://kualistories.github.io/img/Lost 1.jpg)
 
 The dynamics of university are very different from high school. In high school or college, there was a defined set of targets and expectations put forward by others, for instance scoring well in school exams, looking for scholarship opportunities, entering a good university etc. 
 
