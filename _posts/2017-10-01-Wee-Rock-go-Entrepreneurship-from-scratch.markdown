@@ -27,6 +27,8 @@ It was very rough in the beginning, especially when looking for investments or p
 
 For my entire three years at university, I never traveled outside of London - except Brighton and Malaysia, if that counts! Instead, I spent my time building new skills. 
 
+![startup](https://kualistories.github.io/img/Startup.jpg)
+
 >From scratch, I studied graphic design, digital marketing, and business, realms that I never ventured into before and never thought I would prior to my startup project. 
 
 After a while, I started marketing my skills to international clients via various online platforms and begin building my client base. During that period, I slept only 5 hours a day and had a ton of caffeine - not really advisable for a uni student! Nevertheless, I survived, and although the project didn’t manage to launch in the end (we put it on hold as we weren’t satisfied with the final quality of the products), we definitely learned a lot from it. 
