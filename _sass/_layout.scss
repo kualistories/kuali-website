@@ -43,7 +43,7 @@
 }
 
 .post-header {
-    padding: 40px 0px;
+    padding: 40px 0px 10px 0px;
 }
 .post-title {
     display: block;
@@ -60,12 +60,18 @@
     font-size: 1.8rem;
     font-weight: 300;
     blockquote {
+        width: 50%;
+        float: right;
         border-left: 0.3rem solid rgba(251, 87, 82, 0.6);
         background: rgba(251, 87, 82, 0.2);
         font-size: 2rem;
+        margin: 1.5rem 0 1.5rem 1.5rem;
     }
     .chunk-note {
         @extend blockquote;
+        width: 100%;
+        float: none;
+        margin: 2rem 0;
         border-left: 0.3rem solid rgba(243, 169, 79, 0.7);
         background: rgba(243, 169, 79, 0.3);
         font-size: 1.5rem;
@@ -75,6 +81,9 @@
     }
     .editors-note {
         @extend blockquote;
+        width: 100%;
+        float: none;
+        margin: 2rem 0;
         border-left: 0.3rem solid rgba(127, 181, 142, 0.6);
         background: rgba(127, 181, 142, 0.2);
         font-size: 1.5rem;
@@ -83,8 +92,6 @@
     hr {
         height: 2px;
         background: lightgrey;
-        // background: url(/assets/hr.png) repeat-x 0 0;
-        // border: 3px;
     }
 }
 
@@ -265,5 +272,11 @@ h3.section-header {
  @media (max-width: 40.0rem) {
     .preview-panel {
         width: 97%;
+    }
+    .post-content {
+        blockquote {
+            width: 100%;
+            margin: 1.5rem 0;
+        }
     }
 }

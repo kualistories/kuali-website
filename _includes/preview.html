@@ -48,11 +48,9 @@
         {% endfor %}
     {% else %}
         {% for tag in tags_list %}
-            <!-- <div class="tag-boxes"> -->
-                <button class="tag-button" type="button" onclick="tagButtonClick('{{ tag[0] }}')">
-                    {{ tag[0] | capitalize }} ({{ tag[1].size }})
-                </button>
-            <!-- </div> -->
+            <button class="tag-button" type="button" onclick="tagButtonClick('{{ tag[0] }}')">
+                {{ tag[0] | capitalize }} ({{ tag[1].size }})
+            </button>
         {% endfor %}
     {% endif %}
 {% assign tags_list = nil %}

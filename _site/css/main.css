@@ -604,7 +604,7 @@ img {
   font-weight: 300; }
 
 .post-header {
-  padding: 40px 0px; }
+  padding: 40px 0px 10px 0px; }
 
 .post-title {
   display: block;
@@ -621,16 +621,25 @@ img {
   font-size: 1.8rem;
   font-weight: 300; }
   .post-content blockquote, .post-content .chunk-note, .post-content .editors-note {
+    width: 50%;
+    float: right;
     border-left: 0.3rem solid rgba(251, 87, 82, 0.6);
     background: rgba(251, 87, 82, 0.2);
-    font-size: 2rem; }
+    font-size: 2rem;
+    margin: 1.5rem 0 1.5rem 1.5rem; }
   .post-content .chunk-note {
+    width: 100%;
+    float: none;
+    margin: 2rem 0;
     border-left: 0.3rem solid rgba(243, 169, 79, 0.7);
     background: rgba(243, 169, 79, 0.3);
     font-size: 1.5rem; }
     .post-content .chunk-note a {
       color: #b74f3b; }
   .post-content .editors-note {
+    width: 100%;
+    float: none;
+    margin: 2rem 0;
     border-left: 0.3rem solid rgba(127, 181, 142, 0.6);
     background: rgba(127, 181, 142, 0.2);
     font-size: 1.5rem;
@@ -805,4 +814,8 @@ h3.section-header {
  */
 @media (max-width: 40rem) {
   .preview-panel {
-    width: 97%; } }
+    width: 97%; }
+
+  .post-content blockquote, .post-content .chunk-note, .post-content .editors-note {
+    width: 100%;
+    margin: 1.5rem 0; } }
