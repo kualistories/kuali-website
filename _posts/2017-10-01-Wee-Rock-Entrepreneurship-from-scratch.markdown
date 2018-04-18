@@ -23,9 +23,9 @@ Besides, you have an easy access to a network of professionals literally right a
 
 I started a social enterprise with my business partner in Malaysia and recruited a few of my friends to join the team. The essence of a social entrepreneurship is building a business that gives back to the community, which I personally feel quite strongly about.
 
-It was very rough in the beginning, especially when looking for investments or partnerships, as no one wants to support a company with no proven track record. When you have no experience and no capital to do stuff, you need to get them yourself. You need to build the experience and if it is possible, use that experience to build your capital. 
-
 > When you have no experience and no capital to do stuff, you need to get them yourself.
+
+It was very rough in the beginning, especially when looking for investments or partnerships, as no one wants to support a company with no proven track record. When you have no experience and no capital to do stuff, you need to get them yourself. You need to build the experience and if it is possible, use that experience to build your capital. 
 
 For my entire three years at university, I never traveled outside of London - except Brighton and Malaysia, if that counts! Instead, I spent my time building new skills. 
 

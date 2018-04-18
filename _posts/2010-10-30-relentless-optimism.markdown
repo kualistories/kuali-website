@@ -29,9 +29,11 @@ The study went on for some time, like maybe a year or so, the students sat for t
 
 When I first heard this story, I was shocked. I couldn't believe that an entire class of students did better, or worse, simply because they were told at the beginning that they were so. But the more I thought about it, the more it made sense.
 
+The labels, although arbitrary, were far from harmless. You tell a kid that he's a weaker student than that other kid, he's going to believe it. And as a consequence of that belief, he expects there to be a glass ceiling above his head, limiting how high he can reach - so he doesn't stretch himself that far. 
+
 > I couldn't believe that an entire class of students did better, or worse, simply because they were told at the beginning that they were so.
 
-The labels, although arbitrary, were far from harmless. You tell a kid that he's a weaker student than that other kid, he's going to believe it. And as a consequence of that belief, he expects there to be a glass ceiling above his head, limiting how high he can reach - so he doesn't stretch himself that far. In a community, this is even more destructive. His teachers expect the class to be less capable, so they give them less advanced material, fewer rewards. The parents are disappointed that their child didn't make the better class, and the disappointment bleeds through to the kid, who may have been working hard all along but becomes frustrated and stops believing in the effectiveness of his hard work.
+In a community, this is even more destructive. His teachers expect the class to be less capable, so they give them less advanced material, fewer rewards. The parents are disappointed that their child didn't make the better class, and the disappointment bleeds through to the kid, who may have been working hard all along but becomes frustrated and stops believing in the effectiveness of his hard work.
 
 Compounding all of this, the label becomes so much more powerful than just a label. 
 
