@@ -58,4 +58,26 @@
 
 <input type="search" id="search-input" placeholder="Search by title, author, tag ...">
 
-<div id="results-container"></div>
+<div id="results-container">
+{% for post in site.posts %}
+<div class="preview-panel">
+    <a href="${url}">
+        <!-- Fancy image blending stuff for thumbnails -->
+        <div class="panel-container">
+            <div class="panel-img" style="background: 
+                url('{{ post.background }}'), 
+                url('{{ post.silhouette }}');
+                background-size:cover;"></div>
+            <div class="panel-color-search"></div>
+
+            <!-- Title -->
+            <div class="panel-info">
+                <h2><span>{{ post.title }}</span></h2>
+                <h3><span>{{ post.author }}</span></h3>
+                <p class="excerpt"><i>{{ post.summary }}</i></p>
+            </div>
+        </div>
+    </a>
+</div>
+{% endfor %}
+</div>

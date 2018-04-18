@@ -65,8 +65,6 @@ function emptySearch() {
 }
 
 $( document ).ready(function() {
-    colorTiles();
-
     // Make sure to update colors on each new search
     resultsContainer = document.getElementById ("results-container");
     if (resultsContainer.addEventListener) {
@@ -89,8 +87,8 @@ $( document ).ready(function() {
         searchResultTemplate: buildTemplate('{author}','{title}','{summary}',
                                             '{url}','{silhouette}','{background}')
     });
-    // Start with empty search to show all options
-    setTimeout(() => {
-        window.simpleJekyllSearch.search(' ');
-    }, 500);
+
+    // Update tile colours
+    colorTiles();
+    colorSearchTiles();
 });
