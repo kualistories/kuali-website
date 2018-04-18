@@ -574,7 +574,7 @@ img {
  * Site header
  */
 .wrapper .container {
-  max-width: 80rem; }
+  max-width: 90%; }
 
 .site-header {
   text-align: center;
@@ -673,7 +673,7 @@ img {
 
 .preview-panel {
   float: left;
-  width: 30%;
+  width: 22%;
   margin: 1.5%;
   display: block;
   box-sizing: border-box;
