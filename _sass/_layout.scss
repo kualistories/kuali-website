@@ -209,6 +209,7 @@ body {
     top: 0;
     right: 0;
     padding: 5%;
+    padding-left: 10%;
     color: rgba(50,50,50,1);
     
     h2 {
@@ -285,8 +286,24 @@ h3.section-header {
 
 /**
  * override column size for mobile
- */
- @media (max-width: 40.0rem) {
+*/
+@media (max-width: 1200px) { // iPad
+    .wrapper .container {
+        max-width: 100%;
+    }
+    .preview-panel {
+        width: 30%;
+    }
+}
+@media (max-width: 800px) { // Other (eg. half-screen)
+    .wrapper .container {
+        max-width: 100%;
+    }
+    .preview-panel {
+        width: 45%;
+    }
+}
+@media (max-width: 550px) { // Phones
     .wrapper .container {
         max-width: 100%;
     }
