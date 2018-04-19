@@ -3,12 +3,12 @@ layout: post
 title: "[FULL] Conversations with Wee Rock"
 author: Kueh Wee Rock
 date: 2017-10-01
-tags: interview university entrepreneurship depression
+tags: university entrepreneurship depression conversations
 silhouette: /img/sil2.jpg
 background: /img/bg2.jpg
 summary: Driven, ambitious and proactive, he not only engaged in scholarly pursuits at Imperial but also used his time in university to explore several interests outside of academia, including starting a business.
 chunk-origin: 
-editors-note: Wee Rock studied Biochemistry at Imperial College London and was a Choreographer for Senior Dance. Driven, ambitious and proactive, he not only engaged in scholarly pursuits at Imperial but also used his time in university to explore several interests outside of academia. Now, he’s hoping to move to KL to focus on his self-started company. 
+editors-note: Wee Rock studied Biochemistry at Imperial College London. Driven, ambitious and proactive, he not only engaged in scholarly pursuits at Imperial but also used his time in university to explore several interests outside of academia. Now, he’s hoping to move to KL to focus on his self-started company. 
 ---
 
 **What would you say to your pre-uni self?**
