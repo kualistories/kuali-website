@@ -39,20 +39,12 @@
 </div>
 
 <div class="tag-cloud">
-{% assign tags_list = site.tags %}
-    {% if tags_list.first[0] == null %}
-        {% for tag in tags_list %}
-            <div>
-                <a href="#{{ tag }}">{{ tag | capitalize }} ({{ site.tags[tag].size }})</a></li>
-            </div>
-        {% endfor %}
-    {% else %}
-        {% for tag in tags_list %}
-            <button class="tag-button" type="button" onclick="tagButtonClick('{{ tag[0] }}')">
-                {{ tag[0] | capitalize }} ({{ tag[1].size }})
-            </button>
-        {% endfor %}
-    {% endif %}
+{% assign tags_list = site.tags | sort %}
+{% for tag in tags_list %}
+    <button class="tag-button" type="button" onclick="tagButtonClick('{{ tag[0] }}')">
+        {{ tag[0] }}
+    </button>
+{% endfor %}
 {% assign tags_list = nil %}
 </div>
 
