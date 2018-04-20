@@ -7,7 +7,7 @@ tags: regret biochemistry
 silhouette: /img/sil2.jpg
 background: /img/bg2.jpg
 summary: Post-uni, I’m interested in Biology and Chemistry but I’m not going to pursue them as a career.
-chunk-origin: 
+chunk-origin: /2017/09/10/Conversations-with-Nick-Oon
 editors-note: 
 ---
 
