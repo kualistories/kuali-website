@@ -7,7 +7,7 @@ tags: networking extracurricular
 silhouette: /img/sil2.jpg
 background: /img/bg2.jpg
 summary: It's the extracurricular activities and the people you meet that determine the worth of your time.
-chunk-origin: 
+chunk-origin: /2017/09/10/Conversations-with-Nick-Oon
 editors-note: 
 ---
 
