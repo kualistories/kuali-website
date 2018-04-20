@@ -6,8 +6,8 @@ date: 2017-09-10
 tags: university academic 
 silhouette: /img/sil2.jpg
 background: /img/bg2.jpg
-summary: 
-editors-note: I think they could connect better with students and be more passionate about presenting their knowledge. 
+summary: I think they could connect better with students and be more passionate about presenting their knowledge. 
+editors-note: 
 ---
 
 In the academic field, rankings aren’t exactly synonymous with teaching quality. Imperial is amazing in terms of rankings, but in my opinion, the high rank comes mainly from the research and some of the teaching is honestly a bit subpar. 
