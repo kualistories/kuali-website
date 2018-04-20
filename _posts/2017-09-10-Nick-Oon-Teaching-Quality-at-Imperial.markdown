@@ -7,6 +7,7 @@ tags: university academic
 silhouette: /img/sil2.jpg
 background: /img/bg2.jpg
 summary: I think they could connect better with students and be more passionate about presenting their knowledge. 
+chunk-origin: /2017/09/10/Conversations-with-Nick-Oon
 editors-note: 
 ---
 
