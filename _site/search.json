@@ -40,10 +40,58 @@
       "title"    : "[FULL] Conversations with Wee Rock",
       "author"   : "Kueh Wee Rock",
       "category" : "",
-      "tags"     : "interview, university, entrepreneurship, depression",
+      "tags"     : "university, entrepreneurship, depression, conversations",
       "url"      : "/2017/10/01/Conversations-with-Wee-Rock/",
       "date"     : "2017-10-01 00:00:00 +0100",
       "summary"  : "Driven, ambitious and proactive, he not only engaged in scholarly pursuits at Imperial but also used his time in university to explore several interests outside of academia, including starting a business.",
+      "silhouette": "/img/sil2.jpg",
+      "background": "/img/bg2.jpg"
+    } ,
+  
+    {
+      "title"    : "Teaching Quality at Imperial",
+      "author"   : "Nicholas Oon",
+      "category" : "",
+      "tags"     : "university, academic",
+      "url"      : "/2017/09/10/Nick-Oon-Teaching-Quality-at-Imperial/",
+      "date"     : "2017-09-10 00:00:00 +0100",
+      "summary"  : "I think they could connect better with students and be more passionate about presenting their knowledge.",
+      "silhouette": "/img/sil2.jpg",
+      "background": "/img/bg2.jpg"
+    } ,
+  
+    {
+      "title"    : "Studying the Wrong Course?",
+      "author"   : "Nicholas Oon",
+      "category" : "",
+      "tags"     : "regret, biochemistry",
+      "url"      : "/2017/09/10/Nick-Oon-Studying-the-Wrong-Course/",
+      "date"     : "2017-09-10 00:00:00 +0100",
+      "summary"  : "Post-uni, I’m interested in Biology and Chemistry but I’m not going to pursue them as a career.",
+      "silhouette": "/img/sil2.jpg",
+      "background": "/img/bg2.jpg"
+    } ,
+  
+    {
+      "title"    : "Network = Networth",
+      "author"   : "Nicholas Oon",
+      "category" : "",
+      "tags"     : "networking, extracurricular",
+      "url"      : "/2017/09/10/Nick-Oon-Network-is-network/",
+      "date"     : "2017-09-10 00:00:00 +0100",
+      "summary"  : "It's the extracurricular activities and the people you meet that determine the worth of your time.",
+      "silhouette": "/img/sil2.jpg",
+      "background": "/img/bg2.jpg"
+    } ,
+  
+    {
+      "title"    : "[FULL] Conversations with Nicholas Oon",
+      "author"   : "Nicholas Oon",
+      "category" : "",
+      "tags"     : "university, regret, network",
+      "url"      : "/2017/09/10/Conversations-with-Nick-Oon/",
+      "date"     : "2017-09-10 00:00:00 +0100",
+      "summary"  : "A very passionate person with a gift for giving inspirational speeches and has a very good grasp of conceptual matters.",
       "silhouette": "/img/sil2.jpg",
       "background": "/img/bg2.jpg"
     } ,

@@ -4,11 +4,11 @@
     <title>KUALI</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://kualistories.github.io/</link>
-    <atom:link href="http://kualistories.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Apr 2018 02:10:08 +0100</pubDate>
-    <lastBuildDate>Wed, 18 Apr 2018 02:10:08 +0100</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 Apr 2018 22:50:08 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Apr 2018 22:50:08 +0100</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Going Off the Deep End</title>
@@ -33,8 +33,8 @@
 &lt;p&gt;However, this was the path I chose and I never regretted it.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://kualistories.github.io/2017/10/01/Wee-Rock-going-off-the-deep-end/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Wee-Rock-going-off-the-deep-end/</guid>
+        <link>http://localhost:4000/2017/10/01/Wee-Rock-going-off-the-deep-end/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/01/Wee-Rock-going-off-the-deep-end/</guid>
         
         <category>university</category>
         
@@ -74,8 +74,8 @@
 &lt;p&gt;Recently, I have just launched another company with my partner, offering digital services to both local and international clients.  We hope that through this company we could eventually build up a core team that we trust as well as sufficient capital so that we could revisit our initial idea in the very near future.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://kualistories.github.io/2017/10/01/Wee-Rock-Entrepreneurship-from-scratch/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Wee-Rock-Entrepreneurship-from-scratch/</guid>
+        <link>http://localhost:4000/2017/10/01/Wee-Rock-Entrepreneurship-from-scratch/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/01/Wee-Rock-Entrepreneurship-from-scratch/</guid>
         
         <category>entrepreneurship</category>
         
@@ -105,8 +105,8 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://kualistories.github.io/2017/10/01/Wee-Rock-Depression-at-university/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Wee-Rock-Depression-at-university/</guid>
+        <link>http://localhost:4000/2017/10/01/Wee-Rock-Depression-at-university/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/01/Wee-Rock-Depression-at-university/</guid>
         
         <category>depression</category>
         
@@ -190,16 +190,161 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
 &lt;p&gt;&lt;strong&gt;Wow, that sounds great! Nice to hear from you, Wee Rock, and thank you for your time!&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://kualistories.github.io/2017/10/01/Conversations-with-Wee-Rock/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Conversations-with-Wee-Rock/</guid>
-        
-        <category>interview</category>
+        <link>http://localhost:4000/2017/10/01/Conversations-with-Wee-Rock/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/01/Conversations-with-Wee-Rock/</guid>
         
         <category>university</category>
         
         <category>entrepreneurship</category>
         
         <category>depression</category>
+        
+        <category>conversations</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Teaching Quality at Imperial</title>
+        <description>&lt;p&gt;In the academic field, rankings aren’t exactly synonymous with teaching quality. Imperial is amazing in terms of rankings, but in my opinion, the high rank comes mainly from the research and some of the teaching is honestly a bit subpar.&lt;/p&gt;
+
+&lt;p&gt;I don’t expect spoon-feeding, after all, it is the student’s responsibility to learn; I just think that certain members of the teaching staff could spend more energy connecting with students and presenting their knowledge with more passion. In my course, some of the students do indeed complain about the lecturers, and it’s not just a particular subset or even Malaysian mindset but it’s sort of agreed that we could have better teachers.&lt;/p&gt;
+
+&lt;p&gt;Their motivations for teaching are quite varied I’m sure, and I’m sure that a few of them likely wouldn’t even go into teaching if they were given a choice. In retrospect, I definitely gave a lot of educators some flak they didn’t deserve.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/09/10/Nick-Oon-Teaching-Quality-at-Imperial/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/10/Nick-Oon-Teaching-Quality-at-Imperial/</guid>
+        
+        <category>university</category>
+        
+        <category>academic</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Studying the Wrong Course?</title>
+        <description>&lt;p&gt;After coming out from university I feel like I chose the wrong course.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://kualistories.github.io/img/Study.jpg&quot; alt=&quot;Study&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I found out that I’m interested in Biology and Chemistry but those aren’t things I’m going to pursue as a career. In Biotechnology everything I learned is microscopic (for example, we learn about &lt;em&gt;C. elegans&lt;/em&gt; and mosquito proteins and their inner workings/structural stuff) but my interest lies more towards bigger, more macro-level stuff on the scale of tissues and organs.&lt;/p&gt;
+
+&lt;p&gt;Honestly, I think the right course for me would have been biomedical science; I probably wouldn’t have been happier (the workload is crazy!) but I would definitely have liked what I studied.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why didn’t you apply for that in the first place?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Well for one I didn’t really realize how micro-focused the contents of the Biotechnology course was; another factor is that in the sixth form college I went to, Biomedical science is in a way the ‘dirty’ course in the sense that it is regarded as the course medicine rejects go to. Hence Biotech it was!&lt;/p&gt;
+
+&lt;p&gt;I don’t have any major regrets about taking the course but it would be helpful to have that knowledge before starting the course.&lt;/p&gt;
+
+&lt;p&gt;I think it’s important for pre-uni students to know that just because you don’t feel comfortable studying a particular course, it doesn’t mean it is the wrong move for you; there is a difference between feeling the course is wrong for you and the course actually being really wrong for you.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is a difference between feeling the course is wrong for you and the course actually being really wrong for you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Even though a few of our current batch applied to Oxbridge and got rejected, some of us have discussed it and agreed that although Oxbridge are really esteemed places of learning, in London you get an education more focused on networking potential alongside your study life, which really contributes to you having more contacts in various areas. Your network is your net worth!&lt;/p&gt;
+
+&lt;p&gt;Despite my misgivings I’m currently fairly satisfied as I feel in control of the path I am on, I am choosing where I am going. In university, I chose to invest in MNight (Malaysian Night) and other extracurricular activities and that is where I am excelling in.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/09/10/Nick-Oon-Studying-the-Wrong-Course/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/10/Nick-Oon-Studying-the-Wrong-Course/</guid>
+        
+        <category>regret</category>
+        
+        <category>biochemistry</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Network = Networth</title>
+        <description>&lt;p&gt;It really does not matter which university you go to, it’s the extracurricular activities and the people you meet with that determines the worth of your time spent there. The course is merely a channel to feed you information; I believe exams do not really teach me anything as its main role is to make me take the course seriously and connect people to the course.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://kualistories.github.io/img/Network.jpg&quot; alt=&quot;Network&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You could go to MIT (Massachusetts Institute of Technology) or to Oxford or Cambridge but if you end up disinterested in the course while simultaneously not trying any new activities, you will only end up achieving less than if you had gone to a lesser-ranked uni and taken part in lots of extracurricular activities to broaden your horizons.&lt;/p&gt;
+
+&lt;p&gt;Let’s say you are connected with two friends:&lt;/p&gt;
+
+&lt;p&gt;One is a very creative and proactive person; he really pushes himself to create things and has his own network of ‘makers’; by being friends with him you get the opportunity to hear about awesome things his friends are making and maybe even learn something new!&lt;/p&gt;
+
+&lt;p&gt;Another friend is a very friendly, outgoing person who volunteers a lot in her spare time. She likely has a network of contacts throughout say, education due to her experience volunteering there, and by being friends with her you also get access to her contacts in case you want to enter the field in the future.&lt;/p&gt;
+
+&lt;p&gt;Ultimately for me, I have no regrets coming to London due to the network I have built up.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/09/10/Nick-Oon-Network-is-network/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/10/Nick-Oon-Network-is-network/</guid>
+        
+        <category>networking</category>
+        
+        <category>extracurricular</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>[FULL] Conversations with Nicholas Oon</title>
+        <description>&lt;p&gt;&lt;strong&gt;If you had one main thing you wanted to tell new or prospective students, what would it be?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the academic field, rankings aren’t exactly synonymous with teaching quality. Imperial is amazing in terms of rankings, but in my opinion, the high rank comes mainly from the research and some of the teaching is honestly a bit subpar.&lt;/p&gt;
+
+&lt;p&gt;I don’t expect spoon-feeding, after all, it is the student’s responsibility to learn; I just think that certain members of the teaching staff could spend more energy connecting with students and presenting their knowledge with more passion. In my course, some of the students do indeed complain about the lecturers, and it’s not just a particular subset or even Malaysian mindset but it’s sort of agreed that we could have better teachers.&lt;/p&gt;
+
+&lt;p&gt;Their motivations for teaching are quite varied I’m sure, and I’m sure that a few of them likely wouldn’t even go into teaching if they were given a choice. In retrospect, I definitely gave a lot of educators some flak they didn’t deserve.&lt;/p&gt;
+
+&lt;p&gt;After coming out from university I feel like I chose the wrong course.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://kualistories.github.io/img/Study.jpg&quot; alt=&quot;Study&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I found out that I’m interested in Biology and Chemistry but those aren’t things I’m going to pursue as a career. In Biotechnology everything I learned is microscopic (for example, we learn about &lt;em&gt;C. elegans&lt;/em&gt; and mosquito proteins and their inner workings/structural stuff) but my interest lies more towards bigger, more macro-level stuff on the scale of tissues and organs.&lt;/p&gt;
+
+&lt;p&gt;Honestly, I think the right course for me would have been biomedical science; I probably wouldn’t have been happier (the workload is crazy!) but I would definitely have liked what I studied.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why didn’t you apply for that in the first place?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Well for one I didn’t really realize how micro-focused the contents of the Biotechnology course was; another factor is that in the sixth form college I went to, Biomedical science is in a way the ‘dirty’ course in the sense that it is regarded as the course medicine rejects go to. Hence Biotech it was!&lt;/p&gt;
+
+&lt;p&gt;I don’t have any major regrets about taking the course but it would be helpful to have that knowledge before starting the course.&lt;/p&gt;
+
+&lt;p&gt;I think it’s important for pre-uni students to know that just because you don’t feel comfortable studying a particular course, it doesn’t mean it is the wrong move for you; there is a difference between feeling the course is wrong for you and the course actually being really wrong for you.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is a difference between feeling the course is wrong for you and the course actually being really wrong for you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Even though a few of our current batch applied to Oxbridge and got rejected, some of us have discussed it and agreed that although Oxbridge are really esteemed places of learning, in London you get an education more focused on networking potential alongside your study life, which really contributes to you having more contacts in various areas. Your network is your net worth!&lt;/p&gt;
+
+&lt;p&gt;Despite my misgivings I’m currently fairly satisfied as I feel in control of the path I am on, I am choosing where I am going. In university, I chose to invest in MNight (Malaysian Night) and other extracurricular activities and that is where I am excelling in.&lt;/p&gt;
+
+&lt;p&gt;It really does not matter which university you go to, it’s the extracurricular activities and the people you meet with that determines the worth of your time spent there. The course is merely a channel to feed you information; I believe exams do not really teach me anything as its main role is to make me take the course seriously and connect people to the course.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://kualistories.github.io/img/Network.jpg&quot; alt=&quot;Network&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You could go to MIT (Massachusetts Institute of Technology) or to Oxford or Cambridge but if you end up disinterested in the course while simultaneously not trying any new activities, you will only end up achieving less than if you had gone to a lesser-ranked uni and taken part in lots of extracurricular activities to broaden your horizons.&lt;/p&gt;
+
+&lt;p&gt;Let’s say you are connected with two friends:&lt;/p&gt;
+
+&lt;p&gt;One is a very creative and proactive person; he really pushes himself to create things and has his own network of ‘makers’; by being friends with him you get the opportunity to hear about awesome things his friends are making and maybe even learn something new!&lt;/p&gt;
+
+&lt;p&gt;Another friend is a very friendly, outgoing person who volunteers a lot in her spare time. She likely has a network of contacts throughout say, education due to her experience volunteering there, and by being friends with her you also get access to her contacts in case you want to enter the field in the future.&lt;/p&gt;
+
+&lt;p&gt;Ultimately for me, I have no regrets coming to London due to the network I have built up.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/09/10/Conversations-with-Nick-Oon/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/10/Conversations-with-Nick-Oon/</guid>
+        
+        <category>university</category>
+        
+        <category>regret</category>
+        
+        <category>network</category>
         
         
       </item>
@@ -243,8 +388,8 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
 &lt;p&gt;That’s why if I have a choice of which prophecies I want to believe in, I choose to be relentlessly optimistic.&lt;/p&gt;
 </description>
         <pubDate>Sat, 30 Oct 2010 00:00:00 +0100</pubDate>
-        <link>http://kualistories.github.io/2010/10/30/relentless-optimism/</link>
-        <guid isPermaLink="true">http://kualistories.github.io/2010/10/30/relentless-optimism/</guid>
+        <link>http://localhost:4000/2010/10/30/relentless-optimism/</link>
+        <guid isPermaLink="true">http://localhost:4000/2010/10/30/relentless-optimism/</guid>
         
         <category>philosophical</category>
         

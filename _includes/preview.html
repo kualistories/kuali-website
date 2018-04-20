@@ -51,9 +51,10 @@
 <input type="search" id="search-input" placeholder="Search by title, author, tag ...">
 
 <div id="results-container">
-{% for post in site.posts %}
+{% assign posts_list = site.posts | sort %}
+{% for post in posts_list reversed %}
 <div class="preview-panel">
-    <a href="${url}">
+    <a href="{{ post.url }}">
         <!-- Fancy image blending stuff for thumbnails -->
         <div class="panel-container">
             <div class="panel-img" style="background: 

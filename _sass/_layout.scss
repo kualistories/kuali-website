@@ -53,12 +53,15 @@ body {
     margin: 0;
 }
 
+.post {
+    max-width: 80rem;
+    margin: auto;
+}
 .post-nav {
     text-align: center;
     padding: 2rem;
     font-weight: 300; 
 }
-
 .post-header {
     padding: 40px 0px 10px 0px;
 }
