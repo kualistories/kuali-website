@@ -33,9 +33,9 @@ Well for one I didn’t really realize how micro-focused the contents of the Bio
 
 I don’t have any major regrets about taking the course but it would be helpful to have that knowledge before starting the course. 
 
-I think it’s important for pre-uni students to know that just because you don’t feel comfortable studying a particular course, it doesn’t mean it is the wrong move for you; there is a difference between feeling the course is wrong for you and the course actually being really wrong for you.
-
 > There is a difference between feeling the course is wrong for you and the course actually being really wrong for you.
+
+I think it’s important for pre-uni students to know that just because you don’t feel comfortable studying a particular course, it doesn’t mean it is the wrong move for you; there is a difference between feeling the course is wrong for you and the course actually being really wrong for you.
 
 Even though a few of our current batch applied to Oxbridge and got rejected, some of us have discussed it and agreed that although Oxbridge are really esteemed places of learning, in London you get an education more focused on networking potential alongside your study life, which really contributes to you having more contacts in various areas. Your network is your net worth!
 
