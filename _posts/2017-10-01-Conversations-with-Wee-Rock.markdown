@@ -3,7 +3,7 @@ layout: post
 title: "[FULL] Conversations with Wee Rock"
 author: Kueh Wee Rock
 date: 2017-10-01
-tags: university entrepreneurship depression conversations
+tags: university social entrepreneurship business networking depression
 silhouette: /img/sil2.jpg
 background: /img/bg2.jpg
 summary: Driven, ambitious and proactive, he not only engaged in scholarly pursuits at Imperial but also used his time in university to explore several interests outside of academia, including starting a business.
