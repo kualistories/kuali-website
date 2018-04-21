@@ -31,4 +31,4 @@ I think it’s important for pre-uni students to know that just because you don�
 
 Even though a few of our current batch applied to Oxbridge and got rejected, some of us have discussed it and agreed that although Oxbridge are really esteemed places of learning, in London you get an education more focused on networking potential alongside your study life, which really contributes to you having more contacts in various areas. Your network is your net worth!
 
-Despite my misgivings I’m currently fairly satisfied as I feel in control of the path I am on, I am choosing where I am going. In university, I chose to invest in MNight (Malaysian Night) and other extracurricular activities and that is where I am excelling in. 
+Despite my misgivings I’m currently fairly satisfied as I feel in control of the path I am on, I am choosing where I am going. In university, I chose to invest in MNight (Malaysian Night) and other extracurricular activities and those were where I excelled in. 
