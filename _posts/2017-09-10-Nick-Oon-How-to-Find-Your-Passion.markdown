@@ -11,6 +11,8 @@ chunk-origin: /2017/09/10/Conversations-with-Nick-Oon-MNight
 editors-note: 
 ---
 
+**Some students are saying it is hard to pursue their passions as they do not know what they are passionate about yet; not only in terms of MNight but in general as well. How would you advise them?**
+
 Basically, maintain a high throughput system (within legal bounds of course!) which means try as many things as possible. As you try new things, your brain absorbs new experiences and they enrich your mind, enabling you to gain new perspectives on the world and the things in it. Almost certainly, this will lead to you finding something that you are uniquely suited for. 
 
 ![Film](https://kualistories.github.io/img/Film.jpg)
