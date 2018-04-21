@@ -3,7 +3,7 @@ layout: post
 title: "[FULL] Conversations with Nicholas Oon"
 author: Nicholas Oon
 date: 2017-09-10
-tags: university regret network
+tags: university regret network academic biochemistry extracurricular
 silhouette: /img/sil2.jpg
 background: /img/bg2.jpg
 summary: A very passionate person with a gift for giving inspirational speeches and has a very good grasp of conceptual matters.
