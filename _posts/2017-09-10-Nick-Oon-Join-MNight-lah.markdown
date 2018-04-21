@@ -11,6 +11,10 @@ chunk-origin: /2017/09/10/Conversations-with-Nick-Oon-MNight
 editors-note: 
 ---
 
+**If you had to sell MNight to a potential fresher in a few sentences, what would you say?**
+
+Before I begin, I would like to preface this by saying that although some points can apply to MNights across the United Kingdom, I primarily refer to the Imperial experience of MNight as this is what I have experienced.  Other universities likely have different scales and individual experiences unique to their performances. Okay, on to business!
+
 Firstly, you can train a boatload of skills (time management, leadership, discipline to name a few of the common ones) just via ONE event, especially if you intend to become a choreographer. It looks great on your CV and you WILL get a chance to expand on existing skills and learn new ones. Some of the previous Malaysians found they could sing and act during MNight; you also get to try new things like ballroom dancing alongside your Malaysian friends, in a non-judgemental and somewhat familiar setting. 
 
 ![Dance](https://kualistories.github.io/img/Dance.jpg)
