@@ -4,7 +4,7 @@
       "title"    : "Going Off the Deep End",
       "author"   : "Kueh Wee Rock",
       "category" : "",
-      "tags"     : "university, socialising",
+      "tags"     : "university, social",
       "url"      : "/2017/10/01/Wee-Rock-going-off-the-deep-end/",
       "date"     : "2017-10-01 00:00:00 +0100",
       "summary"  : "In university, there is an absence of short term goals. You know you have to do something, but what?",
@@ -40,7 +40,7 @@
       "title"    : "[FULL] Conversations with Wee Rock",
       "author"   : "Kueh Wee Rock",
       "category" : "",
-      "tags"     : "university, entrepreneurship, depression, conversations",
+      "tags"     : "university, social, entrepreneurship, business, networking, depression",
       "url"      : "/2017/10/01/Conversations-with-Wee-Rock/",
       "date"     : "2017-10-01 00:00:00 +0100",
       "summary"  : "Driven, ambitious and proactive, he not only engaged in scholarly pursuits at Imperial but also used his time in university to explore several interests outside of academia, including starting a business.",
@@ -67,7 +67,7 @@
       "tags"     : "regret, biochemistry",
       "url"      : "/2017/09/10/Nick-Oon-Studying-the-Wrong-Course/",
       "date"     : "2017-09-10 00:00:00 +0100",
-      "summary"  : "Post-uni, I’m interested in Biology and Chemistry but I’m not going to pursue them as a career.",
+      "summary"  : "Post-university, I am interested in Biology and Chemistry but I am not going to pursue them as a career.",
       "silhouette": "/img/sil2.jpg",
       "background": "/img/bg2.jpg"
     } ,
@@ -85,15 +85,63 @@
     } ,
   
     {
+      "title"    : "My Mnight Experience",
+      "author"   : "Nicholas Oon",
+      "category" : "",
+      "tags"     : "MNight, Malaysia",
+      "url"      : "/2017/09/10/Nick-Oon-My-MNight-Experience/",
+      "date"     : "2017-09-10 00:00:00 +0100",
+      "summary"  : "Learning and embodying what it means to be Malaysian, and showing the world what we have to offer.",
+      "silhouette": "/img/sil1.jpg",
+      "background": "/img/bg1.jpg"
+    } ,
+  
+    {
+      "title"    : "Join MNight lah!",
+      "author"   : "Nicholas Oon",
+      "category" : "",
+      "tags"     : "MNight, Malaysia",
+      "url"      : "/2017/09/10/Nick-Oon-Join-MNight-lah/",
+      "date"     : "2017-09-10 00:00:00 +0100",
+      "summary"  : "You get to try new activities in a somewhat familiar setting!",
+      "silhouette": "/img/sil1.jpg",
+      "background": "/img/bg1.jpg"
+    } ,
+  
+    {
+      "title"    : "How to Find Your Passion",
+      "author"   : "Nicholas Oon",
+      "category" : "",
+      "tags"     : "passion, extracurricular",
+      "url"      : "/2017/09/10/Nick-Oon-How-to-Find-Your-Passion/",
+      "date"     : "2017-09-10 00:00:00 +0100",
+      "summary"  : "Maintain a high throughput system - which basically means, try as many things as possible.",
+      "silhouette": "/img/sil1.jpg",
+      "background": "/img/bg1.jpg"
+    } ,
+  
+    {
       "title"    : "[FULL] Conversations with Nicholas Oon",
       "author"   : "Nicholas Oon",
       "category" : "",
-      "tags"     : "university, regret, network",
+      "tags"     : "university, regret, networking, academic, biochemistry, extracurricular",
       "url"      : "/2017/09/10/Conversations-with-Nick-Oon/",
       "date"     : "2017-09-10 00:00:00 +0100",
       "summary"  : "A very passionate person with a gift for giving inspirational speeches and has a very good grasp of conceptual matters.",
       "silhouette": "/img/sil2.jpg",
       "background": "/img/bg2.jpg"
+    } ,
+  
+    {
+      "title"    : "[FULL] Conversations with Nicholas Oon - MNight",
+      "author"   : "Nicholas Oon",
+      "category" : "",
+      "tags"     : "MNight, Malaysia, passion, extracurricular",
+      "url"      : "/2017/09/10/Conversations-with-Nick-Oon-MNight/",
+      "date"     : "2017-09-10 00:00:00 +0100",
+      "summary"  : "Let's hear what an Imperial MNight Producer has to say about his show!",
+      "silhouette": "/img/sil1.jpg",
+      "background": "/img/bg1.jpg"
     } ,
   
     {

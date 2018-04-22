@@ -4,11 +4,11 @@
     <title>KUALI</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Apr 2018 22:50:08 +0100</pubDate>
-    <lastBuildDate>Fri, 20 Apr 2018 22:50:08 +0100</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <link>http://kualistories.github.io/</link>
+    <atom:link href="http://kualistories.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 22 Apr 2018 01:04:41 +0100</pubDate>
+    <lastBuildDate>Sun, 22 Apr 2018 01:04:41 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Going Off the Deep End</title>
@@ -33,12 +33,12 @@
 &lt;p&gt;However, this was the path I chose and I never regretted it.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/10/01/Wee-Rock-going-off-the-deep-end/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/01/Wee-Rock-going-off-the-deep-end/</guid>
+        <link>http://kualistories.github.io/2017/10/01/Wee-Rock-going-off-the-deep-end/</link>
+        <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Wee-Rock-going-off-the-deep-end/</guid>
         
         <category>university</category>
         
-        <category>socialising</category>
+        <category>social</category>
         
         
       </item>
@@ -74,8 +74,8 @@
 &lt;p&gt;Recently, I have just launched another company with my partner, offering digital services to both local and international clients.  We hope that through this company we could eventually build up a core team that we trust as well as sufficient capital so that we could revisit our initial idea in the very near future.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/10/01/Wee-Rock-Entrepreneurship-from-scratch/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/01/Wee-Rock-Entrepreneurship-from-scratch/</guid>
+        <link>http://kualistories.github.io/2017/10/01/Wee-Rock-Entrepreneurship-from-scratch/</link>
+        <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Wee-Rock-Entrepreneurship-from-scratch/</guid>
         
         <category>entrepreneurship</category>
         
@@ -105,8 +105,8 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/10/01/Wee-Rock-Depression-at-university/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/01/Wee-Rock-Depression-at-university/</guid>
+        <link>http://kualistories.github.io/2017/10/01/Wee-Rock-Depression-at-university/</link>
+        <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Wee-Rock-Depression-at-university/</guid>
         
         <category>depression</category>
         
@@ -190,16 +190,20 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
 &lt;p&gt;&lt;strong&gt;Wow, that sounds great! Nice to hear from you, Wee Rock, and thank you for your time!&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/10/01/Conversations-with-Wee-Rock/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/01/Conversations-with-Wee-Rock/</guid>
+        <link>http://kualistories.github.io/2017/10/01/Conversations-with-Wee-Rock/</link>
+        <guid isPermaLink="true">http://kualistories.github.io/2017/10/01/Conversations-with-Wee-Rock/</guid>
         
         <category>university</category>
         
+        <category>social</category>
+        
         <category>entrepreneurship</category>
         
-        <category>depression</category>
+        <category>business</category>
         
-        <category>conversations</category>
+        <category>networking</category>
+        
+        <category>depression</category>
         
         
       </item>
@@ -213,8 +217,8 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
 &lt;p&gt;Their motivations for teaching are quite varied I’m sure, and I’m sure that a few of them likely wouldn’t even go into teaching if they were given a choice. In retrospect, I definitely gave a lot of educators some flak they didn’t deserve.&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/09/10/Nick-Oon-Teaching-Quality-at-Imperial/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/10/Nick-Oon-Teaching-Quality-at-Imperial/</guid>
+        <link>http://kualistories.github.io/2017/09/10/Nick-Oon-Teaching-Quality-at-Imperial/</link>
+        <guid isPermaLink="true">http://kualistories.github.io/2017/09/10/Nick-Oon-Teaching-Quality-at-Imperial/</guid>
         
         <category>university</category>
         
@@ -239,19 +243,19 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
 
 &lt;p&gt;I don’t have any major regrets about taking the course but it would be helpful to have that knowledge before starting the course.&lt;/p&gt;
 
-&lt;p&gt;I think it’s important for pre-uni students to know that just because you don’t feel comfortable studying a particular course, it doesn’t mean it is the wrong move for you; there is a difference between feeling the course is wrong for you and the course actually being really wrong for you.&lt;/p&gt;
-
 &lt;blockquote&gt;
   &lt;p&gt;There is a difference between feeling the course is wrong for you and the course actually being really wrong for you.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;I think it’s important for pre-uni students to know that just because you don’t feel comfortable studying a particular course, it doesn’t mean it is the wrong move for you; there is a difference between feeling the course is wrong for you and the course actually being really wrong for you.&lt;/p&gt;
+
 &lt;p&gt;Even though a few of our current batch applied to Oxbridge and got rejected, some of us have discussed it and agreed that although Oxbridge are really esteemed places of learning, in London you get an education more focused on networking potential alongside your study life, which really contributes to you having more contacts in various areas. Your network is your net worth!&lt;/p&gt;
 
-&lt;p&gt;Despite my misgivings I’m currently fairly satisfied as I feel in control of the path I am on, I am choosing where I am going. In university, I chose to invest in MNight (Malaysian Night) and other extracurricular activities and that is where I am excelling in.&lt;/p&gt;
+&lt;p&gt;Despite my misgivings I’m currently fairly satisfied as I feel in control of the path I am on, I am choosing where I am going. In university, I chose to invest in MNight (Malaysian Night) and other extracurricular activities and those were where I excelled in.&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/09/10/Nick-Oon-Studying-the-Wrong-Course/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/10/Nick-Oon-Studying-the-Wrong-Course/</guid>
+        <link>http://kualistories.github.io/2017/09/10/Nick-Oon-Studying-the-Wrong-Course/</link>
+        <guid isPermaLink="true">http://kualistories.github.io/2017/09/10/Nick-Oon-Studying-the-Wrong-Course/</guid>
         
         <category>regret</category>
         
@@ -277,8 +281,8 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
 &lt;p&gt;Ultimately for me, I have no regrets coming to London due to the network I have built up.&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/09/10/Nick-Oon-Network-is-network/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/10/Nick-Oon-Network-is-network/</guid>
+        <link>http://kualistories.github.io/2017/09/10/Nick-Oon-Network-is-network/</link>
+        <guid isPermaLink="true">http://kualistories.github.io/2017/09/10/Nick-Oon-Network-is-network/</guid>
         
         <category>networking</category>
         
@@ -288,114 +292,89 @@ Editor’s Note: Depression is a serious and complicated illness, and we would l
       </item>
     
       <item>
-        <title>[FULL] Conversations with Nicholas Oon</title>
-        <description>&lt;p&gt;&lt;strong&gt;If you had one main thing you wanted to tell new or prospective students, what would it be?&lt;/strong&gt;&lt;/p&gt;
+        <title>My Mnight Experience</title>
+        <description>&lt;p&gt;The main thing I have to say is that MNight is great but it WILL take up a lot of your time, and you need to be conscious of the pros and cons of joining it. MNight serves as an excellent entry point to learning and embodying &lt;em&gt;what it means to be Malaysian&lt;/em&gt; and shows the world what Malaysians have to offer in terms of what we stand for and what talents we have to offer (and boy do we see a lot of talent on display!).&lt;/p&gt;
 
-&lt;p&gt;In the academic field, rankings aren’t exactly synonymous with teaching quality. Imperial is amazing in terms of rankings, but in my opinion, the high rank comes mainly from the research and some of the teaching is honestly a bit subpar.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://kualistories.github.io/img/Malaysian.jpg&quot; alt=&quot;Malaysian&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I don’t expect spoon-feeding, after all, it is the student’s responsibility to learn; I just think that certain members of the teaching staff could spend more energy connecting with students and presenting their knowledge with more passion. In my course, some of the students do indeed complain about the lecturers, and it’s not just a particular subset or even Malaysian mindset but it’s sort of agreed that we could have better teachers.&lt;/p&gt;
+&lt;p&gt;On the flipside, however, something that doesn’t come up often about MNight is that involving yourself too heavily in it will effectively close the door off to many things you can do in terms of exploring other interests outside the Malaysian bubble (skydiving, mountaineering, and other sports, to name a few).&lt;/p&gt;
 
-&lt;p&gt;Their motivations for teaching are quite varied I’m sure, and I’m sure that a few of them likely wouldn’t even go into teaching if they were given a choice. In retrospect, I definitely gave a lot of educators some flak they didn’t deserve.&lt;/p&gt;
+&lt;p&gt;To be fair, I would highly recommend it if you’re looking to develop a wide range of skills and especially your network; however, I think it’s worth considering joining in the first year and perhaps taking the second year to explore your options elsewhere, getting out of your comfort zone.&lt;/p&gt;
 
-&lt;p&gt;After coming out from university I feel like I chose the wrong course.&lt;/p&gt;
+&lt;p&gt;From an alumnus’ perspective, however, we definitely encourage you to come help out if you feel like you might want to give it a shot, as we definitely need brilliant people to helm various positions (choreographers, committee members, ushers and etc.) to help out the next batch of first years.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://kualistories.github.io/img/Study.jpg&quot; alt=&quot;Study&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some people have commented that Imperial’s MNight, in particular is somewhat different in terms of content, with a lot of emphasis on themes and settings more often portrayed in mainstream media as opposed to more culturally accurate settings for example. Would you say that’s true?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I found out that I’m interested in Biology and Chemistry but those aren’t things I’m going to pursue as a career. In Biotechnology everything I learned is microscopic (for example, we learn about &lt;em&gt;C. elegans&lt;/em&gt; and mosquito proteins and their inner workings/structural stuff) but my interest lies more towards bigger, more macro-level stuff on the scale of tissues and organs.&lt;/p&gt;
-
-&lt;p&gt;Honestly, I think the right course for me would have been biomedical science; I probably wouldn’t have been happier (the workload is crazy!) but I would definitely have liked what I studied.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Why didn’t you apply for that in the first place?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Well for one I didn’t really realize how micro-focused the contents of the Biotechnology course was; another factor is that in the sixth form college I went to, Biomedical science is in a way the ‘dirty’ course in the sense that it is regarded as the course medicine rejects go to. Hence Biotech it was!&lt;/p&gt;
-
-&lt;p&gt;I don’t have any major regrets about taking the course but it would be helpful to have that knowledge before starting the course.&lt;/p&gt;
-
-&lt;p&gt;I think it’s important for pre-uni students to know that just because you don’t feel comfortable studying a particular course, it doesn’t mean it is the wrong move for you; there is a difference between feeling the course is wrong for you and the course actually being really wrong for you.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There is a difference between feeling the course is wrong for you and the course actually being really wrong for you.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Even though a few of our current batch applied to Oxbridge and got rejected, some of us have discussed it and agreed that although Oxbridge are really esteemed places of learning, in London you get an education more focused on networking potential alongside your study life, which really contributes to you having more contacts in various areas. Your network is your net worth!&lt;/p&gt;
-
-&lt;p&gt;Despite my misgivings I’m currently fairly satisfied as I feel in control of the path I am on, I am choosing where I am going. In university, I chose to invest in MNight (Malaysian Night) and other extracurricular activities and that is where I am excelling in.&lt;/p&gt;
-
-&lt;p&gt;It really does not matter which university you go to, it’s the extracurricular activities and the people you meet with that determines the worth of your time spent there. The course is merely a channel to feed you information; I believe exams do not really teach me anything as its main role is to make me take the course seriously and connect people to the course.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://kualistories.github.io/img/Network.jpg&quot; alt=&quot;Network&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You could go to MIT (Massachusetts Institute of Technology) or to Oxford or Cambridge but if you end up disinterested in the course while simultaneously not trying any new activities, you will only end up achieving less than if you had gone to a lesser-ranked uni and taken part in lots of extracurricular activities to broaden your horizons.&lt;/p&gt;
-
-&lt;p&gt;Let’s say you are connected with two friends:&lt;/p&gt;
-
-&lt;p&gt;One is a very creative and proactive person; he really pushes himself to create things and has his own network of ‘makers’; by being friends with him you get the opportunity to hear about awesome things his friends are making and maybe even learn something new!&lt;/p&gt;
-
-&lt;p&gt;Another friend is a very friendly, outgoing person who volunteers a lot in her spare time. She likely has a network of contacts throughout say, education due to her experience volunteering there, and by being friends with her you also get access to her contacts in case you want to enter the field in the future.&lt;/p&gt;
-
-&lt;p&gt;Ultimately for me, I have no regrets coming to London due to the network I have built up.&lt;/p&gt;
+&lt;p&gt;Well, I think that is one way of putting it; Imperial’s MNight has always tried to keep our content original, engaging and universal, and places a heavy emphasis on showcasing our greatest resource: talent. We also try to insert universal themes featuring more universal and ‘primal’ emotions such as love, romance, betrayal and friendship as well as interesting plot twists to keep it relatable for the international crowd, which I’m quite glad to say Imperial does a good job of attracting every year so everyone can enjoy the play! I think it’s a great way of representing spirit, cultural idiosyncrasies, and traditions; would definitely recommend you giving it a try!&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 10 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/09/10/Conversations-with-Nick-Oon/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/10/Conversations-with-Nick-Oon/</guid>
+        <link>http://kualistories.github.io/2017/09/10/Nick-Oon-My-MNight-Experience/</link>
+        <guid isPermaLink="true">http://kualistories.github.io/2017/09/10/Nick-Oon-My-MNight-Experience/</guid>
         
-        <category>university</category>
+        <category>MNight</category>
         
-        <category>regret</category>
-        
-        <category>network</category>
+        <category>Malaysia</category>
         
         
       </item>
     
       <item>
-        <title>Relentless optimism</title>
-        <description>&lt;p&gt;&lt;strong&gt;Q: You seem to be a pretty optimistic person. Have you always been like this?&lt;/strong&gt;&lt;/p&gt;
+        <title>Join MNight lah!</title>
+        <description>&lt;p&gt;&lt;strong&gt;If you had to sell MNight to a potential fresher in a few sentences, what would you say?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Throughout the years, I’ve had so many people tell me that I &lt;em&gt;dream too big&lt;/em&gt;, or that I &lt;em&gt;am too naive&lt;/em&gt;. It always annoyed me when they said that, because for all their concern, the only thing I hear when they say that is &lt;em&gt;I don’t believe in you&lt;/em&gt;. But I’ve never had a problem with believing in things, and thank god I didn’t. Have you ever heard about self-fulfilling prophecies?&lt;/p&gt;
+&lt;p&gt;Before I begin, I would like to preface this by saying that although some points can apply to MNights across the United Kingdom, I primarily refer to the Imperial experience of MNight as this is what I have experienced.  Other universities likely have different scales and individual experiences unique to their performances. Okay, on to business!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Q: No, I haven’t. But it sounds like you have a story behind this.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Firstly, you can train a boatload of skills (time management, leadership, discipline to name a few of the common ones) just via ONE event, especially if you intend to become a choreographer. It looks great on your CV and you WILL get a chance to expand on existing skills and learn new ones. Some of the previous Malaysians found they could sing and act during MNight; you also get to try new things like ballroom dancing alongside your Malaysian friends, in a non-judgemental and somewhat familiar setting.&lt;/p&gt;
 
-&lt;p&gt;Yes, as a matter of fact, I do!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://kualistories.github.io/img/Dance.jpg&quot; alt=&quot;Dance&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;During my A-levels, my psychology teacher Mr. Loo taught us about something called the &lt;em&gt;self-fulfilling prophecy&lt;/em&gt;. We read a case study about this experiment where a group of 100 students was split randomly into two classes of 50. They told the students that one of the (arbitrarily chosen) classes was the ‘better’ class and that the other class was the ‘weaker’ class.&lt;/p&gt;
-
-&lt;p&gt;After that, things went on as usual. Both classes had the same lessons, taught by the same teachers, and used the same facilities - there was no actual difference between the two classes except for the arbitrary ‘better’ or ‘weaker’ labels assigned to them at the beginning of the year.&lt;/p&gt;
-
-&lt;p&gt;The study went on for some time, like maybe a year or so, the students sat for their exams, and then finally it was results day. The students obtained their exam results, and the researchers obtained their experiment results. You can see where this is going - I can’t remember the exact details, but between the two classes, the class labeled ‘better’ had obtained significantly better examination results than the ‘weaker’ class.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;When I first heard this story, I was shocked. I couldn’t believe that an entire class of students did better, or worse, simply because they were told at the beginning that they were so. But the more I thought about it, the more it made sense.&lt;/p&gt;
-
-&lt;p&gt;The labels, although arbitrary, were far from harmless. You tell a kid that he’s a weaker student than that other kid, he’s going to believe it. And as a consequence of that belief, he expects there to be a glass ceiling above his head, limiting how high he can reach - so he doesn’t stretch himself that far.&lt;/p&gt;
+&lt;p&gt;Secondly, you get the chance to showcase Malaysian talent on a global platform. I personally feel Imperial does a great job of being internationally friendly as our themes are very relatable across borders. When you’re on the stage, you’re not only representing yourself but also Msoc (to the other societies), Imperial (to the other unis) and most importantly Malaysia (to the world!) You’re essentially a window or a gateway into Malaysia, and when Imperial graduates talk about university this performance is likely something they’ll still remember after they graduate, so you definitely can achieve an impact. These 2 nights alone can shape the impressions of 1200 people!&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;I couldn’t believe that an entire class of students did better, or worse, simply because they were told at the beginning that they were so.&lt;/p&gt;
+  &lt;p&gt;MSoc (Malaysian society) is basically a ready-made friendship circle for you.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In a community, this is even more destructive. His teachers expect the class to be less capable, so they give them less advanced material, fewer rewards. The parents are disappointed that their child didn’t make the better class, and the disappointment bleeds through to the kid, who may have been working hard all along but becomes frustrated and stops believing in the effectiveness of his hard work.&lt;/p&gt;
+&lt;p&gt;Thirdly and finally, you get to meet a whole lot of different people in a very easy way. MSoc (Malaysian society) is basically a ready-made friendship circle for you; learning new activities together has been proven to be a really effective way to bond and get new friends in a new environment, which can help you find your footing when you first arrive here in the UK.&lt;/p&gt;
 
-&lt;p&gt;Compounding all of this, the label becomes so much more powerful than just a label.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;It becomes a prophecy.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Q: Wow. Given what you’ve just told me about self-fulfilling prophecies, it seems incredibly important to not listen to the naysayers, isn’t that right?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Exactly! In the face of everyone trying to place different labels on you, you have to choose which labels you want to believe in. Because that belief ultimately turns into actions, which turns into results.&lt;/p&gt;
-
-&lt;p&gt;That’s why if I have a choice of which prophecies I want to believe in, I choose to be relentlessly optimistic.&lt;/p&gt;
+&lt;p&gt;Also, here in Imperial, you will find that we really emphasize a high quality of production; this culture of wanting to be the best can and will propel you to achieve more than you would think possible. Your seniors and your seniors’ seniors have experienced and put on their own high-quality performances and will push you to your very limits; so it is definitely a tough but worthy endeavor to involve yourselves in.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 30 Oct 2010 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2010/10/30/relentless-optimism/</link>
-        <guid isPermaLink="true">http://localhost:4000/2010/10/30/relentless-optimism/</guid>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://kualistories.github.io/2017/09/10/Nick-Oon-Join-MNight-lah/</link>
+        <guid isPermaLink="true">http://kualistories.github.io/2017/09/10/Nick-Oon-Join-MNight-lah/</guid>
         
-        <category>philosophical</category>
+        <category>MNight</category>
         
-        <category>psychology</category>
+        <category>Malaysia</category>
         
-        <category>motivational</category>
+        
+      </item>
+    
+      <item>
+        <title>How to Find Your Passion</title>
+        <description>&lt;p&gt;&lt;strong&gt;Some students are saying it is hard to pursue their passions as they do not know what they are passionate about yet; not only in terms of MNight but in general as well. How would you advise them?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Basically, maintain a high throughput system (within legal bounds of course!) which means try as many things as possible. As you try new things, your brain absorbs new experiences and they enrich your mind, enabling you to gain new perspectives on the world and the things in it. Almost certainly, this will lead to you finding something that you are uniquely suited for.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://kualistories.github.io/img/Film.jpg&quot; alt=&quot;Film&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For me, it is movies and film in general; I’m actually taking some online courses on the history of film and am planning to go to film school in the future, not because I want to break into the industry or anything (it is quite hard to break into it as a newcomer) but because I want to further my skills and appreciate the field better. These passions developed during my college years when I was watching the Oscars and slowly started to realize how movies and film have shaped our society and public perception; over time this gradually developed more and more till where I am today!&lt;/p&gt;
+
+&lt;p&gt;So I would advise any pre-university students to try lots of different things and spark your interest. Some examples are playing the badminton, painting, playing the violin, photography and etc. You may find yourself doing better than other people in certain things, and maybe you could try turning it into something beneficial for society like writing book reviews or even side projects as a part-time pursuit.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Choose your battles wisely and always grow yourself, only then can you mature and continually grow.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It is also worth noting that sometimes you will end up doing two things at once: one as a source of income and one to keep your passion going. Choose your battles wisely and always grow yourself, only then can you mature and continually grow.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://kualistories.github.io/2017/09/10/Nick-Oon-How-to-Find-Your-Passion/</link>
+        <guid isPermaLink="true">http://kualistories.github.io/2017/09/10/Nick-Oon-How-to-Find-Your-Passion/</guid>
+        
+        <category>passion</category>
+        
+        <category>extracurricular</category>
         
         
       </item>

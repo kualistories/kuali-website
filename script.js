@@ -82,7 +82,7 @@ $( document ).ready(function() {
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
-        fuzzy: true,
+        fuzzy: false,
         limit: 30,
         searchResultTemplate: buildTemplate('{author}','{title}','{summary}',
                                             '{url}','{silhouette}','{background}')
