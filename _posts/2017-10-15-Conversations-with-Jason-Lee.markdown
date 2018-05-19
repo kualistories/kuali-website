@@ -31,11 +31,11 @@ Another aspect is that coming out of research, the job prospects are really not 
 
 **What about living in the United Kingdom? How was your “London experience”?**
 
-![iceland](https://kualistories.github.io/img/iceland.jpg)
-
 I really enjoyed living in the United Kingdom actually. My advice to younger students would be to make full use of your time here, and get to know people of the same interest! Travel a lot and take all the time you need to do so; you’ll rarely have time after you start working. In terms of travelling, I would highly recommend Iceland, especially since I love the outdoors and nature in general, Iceland is really awesome for that! Spain as well, the food there is extremely good and cheap. 
 
 >...make full use of your time here, and get to know people of the same interest!
+
+![iceland](https://kualistories.github.io/img/iceland.jpg)
 
 Initially during my first year at university, I felt really scared of trying new stuff alone; I would say you should just dive in head first and try new things. Perhaps something outside of Msoc (Malaysian Society) would be good; I personally enjoyed the Funkology club at Imperial College as I feel they’re extremely friendly towards outsiders and are really nice people in general. 
 
