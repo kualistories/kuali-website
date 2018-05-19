@@ -23,17 +23,19 @@ Looking back, I actually found both the university and the course slightly unsui
 
 **Oh that’s interesting. Would you say it’s because you didn’t research the course well enough before going into Imperial College? Or was it something else?**
 
+>...they really take the time to get to know us and enrich our knowledge.
+
 Well, I would say I did my research pretty thoroughly before entering; my main attraction to the course was actually to involve myself in doing interesting stuff but the heavy focus on research really wasn’t a good fit for me. This is my personal opinion, but I find the lecturers also kind of taught for the sake of teaching. I’m enjoying my time here (in Singapore) much more as we have very thought-provoking discussions and the lecturers are quite passionate about teaching, they really take the time to get to know us and enrich our knowledge. 
 
->...they really take the time to get to know us and enrich our knowledge.
+>...bear in mind that you really should consider your job prospects after university
 
 Another aspect is that coming out of research, the job prospects are really not that abundant especially in the business sector; that isn’t to say that the whole course is bad, it does cover a very broad range of topics like Computer Science and coding. Just bear in mind that you really should consider your job prospects after university as (in my case) out of the 10+ Malaysians and Singaporeans that came out of the field, only one went on to do biomedical-related work while the rest exited the field. 
 
 **What about living in the United Kingdom? How was your “London experience”?**
 
-I really enjoyed living in the United Kingdom actually. My advice to younger students would be to make full use of your time here, and get to know people of the same interest! Travel a lot and take all the time you need to do so; you’ll rarely have time after you start working. In terms of travelling, I would highly recommend Iceland, especially since I love the outdoors and nature in general, Iceland is really awesome for that! Spain as well, the food there is extremely good and cheap. 
-
 >Travel a lot and take all the time you need to do so!
+
+I really enjoyed living in the United Kingdom actually. My advice to younger students would be to make full use of your time here, and get to know people of the same interest! Travel a lot and take all the time you need to do so; you’ll rarely have time after you start working. In terms of travelling, I would highly recommend Iceland, especially since I love the outdoors and nature in general, Iceland is really awesome for that! Spain as well, the food there is extremely good and cheap. 
 
 ![iceland](https://kualistories.github.io/img/iceland.jpg)
 
