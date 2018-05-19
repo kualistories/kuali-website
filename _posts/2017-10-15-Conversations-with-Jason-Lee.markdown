@@ -11,7 +11,7 @@ chunk-origin:
 editors-note: Jason studied biomedical engineering at Imperial College and is currently pursuing his Masters in Information Systems in Singapore. 
 ---
 
-![university](kualistories.github.io/img/university.jpeg)
+![university](kualistories.github.io/img/university.jpg)
 
 **Can you tell us what does Biomedical Engineering entail at Imperial?**
 
@@ -29,7 +29,7 @@ Another aspect is that coming out of research, the job prospects are really not 
 
 **What about living in the United Kingdom? How was your “London experience”?**
 
-![iceland](kualistories.github.io/img/iceland.jpeg)
+![iceland](kualistories.github.io/img/iceland.jpg)
 
 I really enjoyed living in the United Kingdom actually. My advice to younger students would be to make full use of your time here, and get to know people of the same interest! Travel a lot and take all the time you need to do so; you’ll rarely have time after you start working. In terms of travelling, I would highly recommend Iceland, especially since I love the outdoors and nature in general, Iceland is really awesome for that! Spain as well, the food there is extremely good and cheap. 
 
@@ -43,7 +43,7 @@ Well, I would say not joining Funkology in my first year, haha. Another one woul
 
 **Can you elaborate more on what you’re studying now?**
 
-![technical](kualistories.github.io/img/technical.jpeg)
+![technical](kualistories.github.io/img/technical.jpg)
 
 Well, I’m currently studying about Information Systems. Information Systems is the more practical side of Computer Science. Computer Science focuses more on the technical aspects and building algorithms, which I’m not interested in, whereas Information System focuses more on applying the knowledge, how to manage it properly, the impacts of it in relation to business, society and etc. You can choose different areas to focus on, from management, design and user experience, and more technical stuff such as data mining. Hence, it’s a system of information.
 
