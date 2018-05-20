@@ -6,7 +6,7 @@ date: 2017-10-15
 tags: university regret academic
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg
-summary: 
+summary: Make time for the things you enjoy most.
 chunk-origin: 
 editors-note: Jason studied biomedical engineering at Imperial College and is currently pursuing his Masters in Information Systems in Singapore. 
 ---
@@ -25,7 +25,7 @@ Looking back, I actually found both the university and the course slightly unsui
 
 Well, I would say I did my research pretty thoroughly before entering; my main attraction to the course was actually to involve myself in doing interesting stuff but the heavy focus on research really wasn’t a good fit for me. This is my personal opinion, but I find the lecturers also kind of taught for the sake of teaching. 
 
->...they really take the time to get to know us and enrich our knowledge.
+>They really take the time to get to know us and enrich our knowledge.
 
 I’m enjoying my time here (in Singapore) much more as we have very thought-provoking discussions and the lecturers are quite passionate about teaching, they really take the time to get to know us and enrich our knowledge. 
 

@@ -7,8 +7,7 @@
 <div id="featured-container">
 {% assign maxRelated = 4 %}
 {% assign maxRelatedCounter = 0 %}
-{% assign posts_list = site.posts | sort %}
-{% for post in posts_list %}
+{% for post in site.posts %}
 <div class="preview-panel">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <!-- Fancy image blending stuff for thumbnails -->
