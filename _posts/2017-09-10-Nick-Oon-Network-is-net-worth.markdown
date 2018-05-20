@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Network = Networth"
+title: "Network = Net Worth"
 author: Nicholas Oon
 date: 2017-09-10
 tags: networking extracurricular
