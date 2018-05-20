@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KUALI</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Stories from and about Malaysians. Have a story to tell? A thought you&#39;d like to share? We&#39;d love to hear from you!
 </description>
     <link>http://kualistories.github.io/</link>
     <atom:link href="http://kualistories.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 May 2018 15:53:28 +0100</pubDate>
-    <lastBuildDate>Sun, 20 May 2018 15:53:28 +0100</lastBuildDate>
+    <pubDate>Sun, 20 May 2018 18:07:53 +0100</pubDate>
+    <lastBuildDate>Sun, 20 May 2018 18:07:53 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
