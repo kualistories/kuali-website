@@ -39,7 +39,8 @@ function buildTemplate(author, title, summary, url, silhouette, background) {
                     <div class="panel-img" style="background: 
                         url('${background}'), 
                         url('${silhouette}');
-                        background-size:cover;"></div>
+                        background-size:contain;
+                        background-repeat:no-repeat;"></div>
                     <div class="panel-color-search"></div>
 
                     <!-- Title -->
