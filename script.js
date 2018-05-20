@@ -64,6 +64,12 @@ function emptySearch() {
     }
 }
 
+// When the user clicks on the button, scroll to the top of the document
+function scrollToTop() {
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
 $( document ).ready(function() {
     // Make sure to update colors on each new search
     resultsContainer = document.getElementById ("results-container");
@@ -91,4 +97,15 @@ $( document ).ready(function() {
     // Update tile colours
     colorTiles();
     colorSearchTiles();
+
+
+    // Scroll-to-top button
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 20) {
+            document.getElementById("scrollToTopButton").style.display = "block";
+        } else {
+            document.getElementById("scrollToTopButton").style.display = "none";
+        }
+    }
 });
