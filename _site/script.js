@@ -71,6 +71,16 @@ function scrollToTop() {
 }
 
 $( document ).ready(function() {
+    // Scroll-to-top button
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 20) {
+            document.getElementById("scrollToTopButton").style.display = "block";
+        } else {
+            document.getElementById("scrollToTopButton").style.display = "none";
+        }
+    }
+
     // Make sure to update colors on each new search
     resultsContainer = document.getElementById ("results-container");
     if (resultsContainer.addEventListener) {
@@ -97,15 +107,4 @@ $( document ).ready(function() {
     // Update tile colours
     colorTiles();
     colorSearchTiles();
-
-
-    // Scroll-to-top button
-    // When the user scrolls down 20px from the top of the document, show the button
-    window.onscroll = function() {
-        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 20) {
-            document.getElementById("scrollToTopButton").style.display = "block";
-        } else {
-            document.getElementById("scrollToTopButton").style.display = "none";
-        }
-    }
 });
