@@ -9,6 +9,7 @@ background: /img/bg1.jpg
 summary: In psychology class, they teach you about self-fulfilling prophecies. The part they usually leave out? You can use it as a tool.
 chunk-origin: /YYYY/MM/DD/interview-article-title
 editors-note: This is a sample written for the purpose of demonstrating how articles are formatted on Kuali.
+published: false
 ---
 
 **Q: You seem to be a pretty optimistic person. Have you always been like this?**
