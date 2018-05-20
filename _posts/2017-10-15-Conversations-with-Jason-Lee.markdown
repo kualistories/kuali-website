@@ -3,7 +3,7 @@ layout: post
 title: "Conversations with Jason Lee"
 author: Jason Lee
 date: 2017-10-15
-tags: university 
+tags: university regret academic
 silhouette: /img/sil1.jpg
 background: /img/bg1.jpg
 summary: 
@@ -17,7 +17,7 @@ editors-note: Jason studied biomedical engineering at Imperial College and is cu
 
 Well, it’s mostly engineering-related material. You do modules from nearly every department, such as Chemistry, Mechanical Engineering, Computer Science, Physics, Electrical and Electronics Engineering, and etc. You can choose your stream in your third year, and focus on Mechanical, Electrical, or Bioengineering. For me, the most interesting and practical subjects were the Computer Science and programming as these are used a lot in other areas as well.
 
-**If you could tell your pre-uni self one thing, what would it be?**
+**Reflecting on your university experience, what did you learn?**
 
 Looking back, I actually found both the university and the course slightly unsuitable for me. It was a really dry and research-oriented field, which is not what I want to involve myself in; I find myself being drawn more to fields such as application design and not so much engineering. Now I’m studying Information Systems as part of my course in NTU (Nanyang Technological Institute) and I’m enjoying it a lot more as it enables me to interact more with more interesting fields such as sociology and psychology. 
 
