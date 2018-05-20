@@ -858,7 +858,8 @@ h3.section-header {
     max-width: 100%; }
 
   .preview-panel {
-    width: 97%; }
+    width: 97%;
+    height: 50vw; }
 
   .post-content blockquote, .post-content .chunk-note, .post-content .editors-note {
     width: 100%;
